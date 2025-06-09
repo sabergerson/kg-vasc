@@ -1,0 +1,901 @@
+cell_type,gene,rank
+Astrocyte,MALAT1,1
+Astrocyte,LSAMP,2
+Astrocyte,DPP10,3
+Astrocyte,SLC1A2,4
+Astrocyte,CTNNA2,5
+Astrocyte,MACF1,6
+Astrocyte,GPM6A,7
+Astrocyte,PCDH9,8
+Astrocyte,PITPNC1,9
+Astrocyte,NRXN1,10
+Astrocyte,NPAS3,11
+Astrocyte,NRG3,12
+Astrocyte,GPC5,13
+Astrocyte,NTM,14
+Astrocyte,LRP1B,15
+Astrocyte,RORA,16
+Astrocyte,CTNND2,17
+Astrocyte,ADGRV1,18
+Astrocyte,DST,19
+Astrocyte,SORBS1,20
+Astrocyte,DTNA,21
+Astrocyte,MT-ND4,22
+Astrocyte,PPP2R2B,23
+Astrocyte,NEAT1,24
+Astrocyte,MMD2,25
+Astrocyte,SYNE1,26
+Astrocyte,MSI2,27
+Astrocyte,ADGRB3,28
+Astrocyte,SLC1A3,29
+Astrocyte,CADM2,30
+Astrocyte,ELOVL5,31
+Astrocyte,OBI1-AS1,32
+Astrocyte,ZBTB20,33
+Astrocyte,ERBB4,34
+Astrocyte,MT-CO3,35
+Astrocyte,MAGI2,36
+Astrocyte,TPD52L1,37
+Astrocyte,MIR99AHG,38
+Astrocyte,QKI,39
+Astrocyte,LUC7L3,40
+Astrocyte,SOX5,41
+Astrocyte,RYR3,42
+Astrocyte,ABLIM1,43
+Astrocyte,HSP90AA1,44
+Astrocyte,ANK2,45
+Astrocyte,PRKCA,46
+Astrocyte,NTRK2,47
+Astrocyte,WWOX,48
+Astrocyte,TNIK,49
+Astrocyte,TENM2,50
+Astrocyte,TNRC6A,51
+Astrocyte,ADGRL3,52
+Astrocyte,ZSWIM6,53
+Astrocyte,LINC00486,54
+Astrocyte,MT-CO2,55
+Astrocyte,CACNB2,56
+Astrocyte,NFIA,57
+Astrocyte,CADM1,58
+Astrocyte,TRPM3,59
+Astrocyte,SLC4A4,60
+Astrocyte,SGIP1,61
+Astrocyte,NKAIN3,62
+Astrocyte,ARGLU1,63
+Astrocyte,GRID2,64
+Astrocyte,MT-ATP6,65
+Astrocyte,LINC03051,66
+Astrocyte,MAPK10,67
+Astrocyte,PNISR,68
+Astrocyte,NEBL,69
+Astrocyte,FMN2,70
+Astrocyte,GFAP,71
+Astrocyte,HPSE2,72
+Astrocyte,AHCYL2,73
+Astrocyte,RBM25,74
+Astrocyte,SAMD4A,75
+Astrocyte,BTBD9,76
+Astrocyte,DOCK4,77
+Astrocyte,CDH20,78
+Astrocyte,NAV3,79
+Astrocyte,DLG2,80
+Astrocyte,FMNL2,81
+Astrocyte,FBXL7,82
+Astrocyte,SPARCL1,83
+Astrocyte,ZNF98,84
+Astrocyte,ADCY2,85
+Astrocyte,MT-ND3,86
+Astrocyte,ENSG00000271860,87
+Astrocyte,OPHN1,88
+Astrocyte,MT-CO1,89
+Astrocyte,TRPS1,90
+Astrocyte,SIK3,91
+Astrocyte,PARD3,92
+Astrocyte,BAZ2B,93
+Astrocyte,PRKG1,94
+Astrocyte,RFX4,95
+Astrocyte,NALF1,96
+Astrocyte,GLIS3,97
+Astrocyte,XIST,98
+Astrocyte,NAV2,99
+Astrocyte,PRRC2C,100
+Endothelial,MALAT1,1
+Endothelial,PTPRG,2
+Endothelial,ATP10A,3
+Endothelial,FLT1,4
+Endothelial,ARL15,5
+Endothelial,ST6GALNAC3,6
+Endothelial,MECOM,7
+Endothelial,NEAT1,8
+Endothelial,THSD4,9
+Endothelial,SLC39A10,10
+Endothelial,HSP90AA1,11
+Endothelial,PDE4D,12
+Endothelial,HERC2P3,13
+Endothelial,ABCB1,14
+Endothelial,MACF1,15
+Endothelial,SYNE1,16
+Endothelial,PTPRM,17
+Endothelial,ELOVL7,18
+Endothelial,NXN,19
+Endothelial,STOX2,20
+Endothelial,VWF,21
+Endothelial,COBLL1,22
+Endothelial,BMPR2,23
+Endothelial,LRMDA,24
+Endothelial,UTRN,25
+Endothelial,LDB2,26
+Endothelial,PLPP1,27
+Endothelial,AFF3,28
+Endothelial,LINC00486,29
+Endothelial,LHFPL6,30
+Endothelial,RBMS3,31
+Endothelial,MYRIP,32
+Endothelial,FLI1,33
+Endothelial,TACC1,34
+Endothelial,TIMP3,35
+Endothelial,ST6GAL1,36
+Endothelial,IGF1R,37
+Endothelial,EPAS1,38
+Endothelial,INSR,39
+Endothelial,CRIM1,40
+Endothelial,SPTBN1,41
+Endothelial,FOXP1,42
+Endothelial,DOCK9,43
+Endothelial,PRKCH,44
+Endothelial,FTX,45
+Endothelial,ARGLU1,46
+Endothelial,ANO2,47
+Endothelial,GPCPD1,48
+Endothelial,ZBTB16,49
+Endothelial,JMJD1C,50
+Endothelial,PIK3R3,51
+Endothelial,TCF4,52
+Endothelial,NKAIN2,53
+Endothelial,PELI1,54
+Endothelial,PTPRB,55
+Endothelial,TBC1D4,56
+Endothelial,CCNY,57
+Endothelial,WWTR1,58
+Endothelial,RAPGEF2,59
+Endothelial,AKAP12,60
+Endothelial,PRRC2C,61
+Endothelial,XIST,62
+Endothelial,ZBTB20,63
+Endothelial,NALF1,64
+Endothelial,SORBS2,65
+Endothelial,SORBS1,66
+Endothelial,PLCB4,67
+Endothelial,NCOA1,68
+Endothelial,MT-CO1,69
+Endothelial,ABCG2,70
+Endothelial,MAST4,71
+Endothelial,RORA,72
+Endothelial,DKK2,73
+Endothelial,LINC02147,74
+Endothelial,TJP1,75
+Endothelial,APBB2,76
+Endothelial,PLEKHG1,77
+Endothelial,ENSG00000236283,78
+Endothelial,SGMS1,79
+Endothelial,SLC7A5,80
+Endothelial,SOX5,81
+Endothelial,ENSG00000291073,82
+Endothelial,LUC7L3,83
+Endothelial,GALNT18,84
+Endothelial,AUTS2,85
+Endothelial,TTC28,86
+Endothelial,ARHGAP26,87
+Endothelial,PITPNC1,88
+Endothelial,SLC26A3,89
+Endothelial,ESYT2,90
+Endothelial,LIMCH1,91
+Endothelial,BBS9,92
+Endothelial,RPGR,93
+Endothelial,SYNE2,94
+Endothelial,QKI,95
+Endothelial,CGNL1,96
+Endothelial,PCDH9,97
+Endothelial,TSHZ2,98
+Endothelial,MRTFB,99
+Endothelial,NEBL,100
+Ependymal Epithelial Cell,MALAT1,1
+Ependymal Epithelial Cell,TRPM3,2
+Ependymal Epithelial Cell,HTR2C,3
+Ependymal Epithelial Cell,SYNE1,4
+Ependymal Epithelial Cell,CFAP46,5
+Ependymal Epithelial Cell,DPP10,6
+Ependymal Epithelial Cell,KAZN,7
+Ependymal Epithelial Cell,GRM8,8
+Ependymal Epithelial Cell,NWD1,9
+Ependymal Epithelial Cell,DPP6,10
+Ependymal Epithelial Cell,HSP90AA1,11
+Ependymal Epithelial Cell,STOX2,12
+Ependymal Epithelial Cell,AGBL4,13
+Ependymal Epithelial Cell,CRPPA,14
+Ependymal Epithelial Cell,MT-CO2,15
+Ependymal Epithelial Cell,MSI2,16
+Ependymal Epithelial Cell,ENSG00000258312,17
+Ependymal Epithelial Cell,RBM47,18
+Ependymal Epithelial Cell,PNISR,19
+Ependymal Epithelial Cell,CFAP54,20
+Ependymal Epithelial Cell,DYNC2I1,21
+Ependymal Epithelial Cell,WWOX,22
+Ependymal Epithelial Cell,PTPRG,23
+Ependymal Epithelial Cell,DNAH9,24
+Ependymal Epithelial Cell,PDZD2,25
+Ependymal Epithelial Cell,NEAT1,26
+Ependymal Epithelial Cell,PRLR,27
+Ependymal Epithelial Cell,TRMT9B,28
+Ependymal Epithelial Cell,SYNE2,29
+Ependymal Epithelial Cell,SHANK2,30
+Ependymal Epithelial Cell,SH3D19,31
+Ependymal Epithelial Cell,MT-CO1,32
+Ependymal Epithelial Cell,CFAP299,33
+Ependymal Epithelial Cell,HDAC9,34
+Ependymal Epithelial Cell,LUC7L3,35
+Ependymal Epithelial Cell,RPGR,36
+Ependymal Epithelial Cell,SLC13A4,37
+Ependymal Epithelial Cell,MAPK10,38
+Ependymal Epithelial Cell,OTX2-AS1,39
+Ependymal Epithelial Cell,TSC22D1,40
+Ependymal Epithelial Cell,EIF4G3,41
+Ependymal Epithelial Cell,PLD5,42
+Ependymal Epithelial Cell,PRKG1,43
+Ependymal Epithelial Cell,MT-CO3,44
+Ependymal Epithelial Cell,GALNT17,45
+Ependymal Epithelial Cell,PITPNC1,46
+Ependymal Epithelial Cell,TMEM232,47
+Ependymal Epithelial Cell,RBM25,48
+Ependymal Epithelial Cell,LDLRAD4,49
+Ependymal Epithelial Cell,TENM2,50
+Ependymal Epithelial Cell,PHACTR2,51
+Ependymal Epithelial Cell,PDZRN3,52
+Ependymal Epithelial Cell,MT-ND4,53
+Ependymal Epithelial Cell,HYDIN,54
+Ependymal Epithelial Cell,RORA,55
+Ependymal Epithelial Cell,GPM6A,56
+Ependymal Epithelial Cell,MIR99AHG,57
+Ependymal Epithelial Cell,LINC00276,58
+Ependymal Epithelial Cell,PCAT1,59
+Ependymal Epithelial Cell,ATP2B2,60
+Ependymal Epithelial Cell,AHCYL2,61
+Ependymal Epithelial Cell,MAGI2,62
+Ependymal Epithelial Cell,LINC00598,63
+Ependymal Epithelial Cell,DNAH11,64
+Ependymal Epithelial Cell,KIAA1217,65
+Ependymal Epithelial Cell,RABGAP1L,66
+Ependymal Epithelial Cell,GOLGA4,67
+Ependymal Epithelial Cell,PNN,68
+Ependymal Epithelial Cell,C8ORF34,69
+Ependymal Epithelial Cell,DST,70
+Ependymal Epithelial Cell,NRG3,71
+Ependymal Epithelial Cell,TNRC6A,72
+Ependymal Epithelial Cell,VAT1L,73
+Ependymal Epithelial Cell,CLIC6,74
+Ependymal Epithelial Cell,TMEM117,75
+Ependymal Epithelial Cell,SULF1,76
+Ependymal Epithelial Cell,PIP5K1B,77
+Ependymal Epithelial Cell,SLC4A10,78
+Ependymal Epithelial Cell,MAGI1,79
+Ependymal Epithelial Cell,SLC20A2,80
+Ependymal Epithelial Cell,ENSG00000228655,81
+Ependymal Epithelial Cell,ZBTB20,82
+Ependymal Epithelial Cell,NPAS3,83
+Ependymal Epithelial Cell,RFX3,84
+Ependymal Epithelial Cell,SPAG17,85
+Ependymal Epithelial Cell,ENPP2,86
+Ependymal Epithelial Cell,PLEKHA5,87
+Ependymal Epithelial Cell,CUX2,88
+Ependymal Epithelial Cell,NFIA,89
+Ependymal Epithelial Cell,DNAH7,90
+Ependymal Epithelial Cell,SORBS1,91
+Ependymal Epithelial Cell,PRDM16,92
+Ependymal Epithelial Cell,CACNB2,93
+Ependymal Epithelial Cell,MACF1,94
+Ependymal Epithelial Cell,FGFR2,95
+Ependymal Epithelial Cell,ROR2,96
+Ependymal Epithelial Cell,DNAH6,97
+Ependymal Epithelial Cell,NLGN1,98
+Ependymal Epithelial Cell,ATXN1,99
+Ependymal Epithelial Cell,ARGLU1,100
+Fibroblast,MALAT1,1
+Fibroblast,CEMIP,2
+Fibroblast,RORA,3
+Fibroblast,MIR99AHG,4
+Fibroblast,LAMA2,5
+Fibroblast,KAZN,6
+Fibroblast,KCNMA1,7
+Fibroblast,RBMS3,8
+Fibroblast,NEAT1,9
+Fibroblast,FOXP1,10
+Fibroblast,GPC6,11
+Fibroblast,AKAP12,12
+Fibroblast,LRP1B,13
+Fibroblast,ZBTB20,14
+Fibroblast,SLC4A4,15
+Fibroblast,DLG2,16
+Fibroblast,BICC1,17
+Fibroblast,NTRK3,18
+Fibroblast,FLRT2,19
+Fibroblast,RNF220,20
+Fibroblast,FTX,21
+Fibroblast,BNC2,22
+Fibroblast,NFIA,23
+Fibroblast,THSD4,24
+Fibroblast,PARD3,25
+Fibroblast,AUTS2,26
+Fibroblast,SORBS1,27
+Fibroblast,USP53,28
+Fibroblast,ADAMTSL3,29
+Fibroblast,PRKG1,30
+Fibroblast,SAMD4A,31
+Fibroblast,ZEB1,32
+Fibroblast,COLEC12,33
+Fibroblast,UACA,34
+Fibroblast,PDE4D,35
+Fibroblast,PTGDS,36
+Fibroblast,FBXL7,37
+Fibroblast,SLC38A4-AS1,38
+Fibroblast,LINC00486,39
+Fibroblast,WWOX,40
+Fibroblast,LHFPL6,41
+Fibroblast,ATP1B3,42
+Fibroblast,FMNL2,43
+Fibroblast,TRIO,44
+Fibroblast,CALD1,45
+Fibroblast,MIR100HG,46
+Fibroblast,SVIL,47
+Fibroblast,TRPM3,48
+Fibroblast,TJP1,49
+Fibroblast,PDZRN4,50
+Fibroblast,LPP,51
+Fibroblast,SPTBN1,52
+Fibroblast,SLC26A2,53
+Fibroblast,TACC1,54
+Fibroblast,LINC01088,55
+Fibroblast,CELF2,56
+Fibroblast,ABCA9,57
+Fibroblast,TPM1,58
+Fibroblast,CACNA2D3,59
+Fibroblast,PARD3B,60
+Fibroblast,UNC5C,61
+Fibroblast,DST,62
+Fibroblast,CACNB2,63
+Fibroblast,MDGA2,64
+Fibroblast,PRKCA,65
+Fibroblast,PDZRN3,66
+Fibroblast,SETBP1,67
+Fibroblast,NLGN1,68
+Fibroblast,MAGI2,69
+Fibroblast,JMJD1C,70
+Fibroblast,EBF1,71
+Fibroblast,EPS8,72
+Fibroblast,AHCYL2,73
+Fibroblast,PITPNC1,74
+Fibroblast,NAV2,75
+Fibroblast,EXT1,76
+Fibroblast,SGIP1,77
+Fibroblast,MACF1,78
+Fibroblast,IMMP2L,79
+Fibroblast,GMDS,80
+Fibroblast,SASH1,81
+Fibroblast,C8ORF34,82
+Fibroblast,PHLDB2,83
+Fibroblast,PLXDC2,84
+Fibroblast,LDLRAD4,85
+Fibroblast,KCNT2,86
+Fibroblast,BACH2,87
+Fibroblast,SLIT2,88
+Fibroblast,LINC-PINT,89
+Fibroblast,HSP90AA1,90
+Fibroblast,ENSG00000243620,91
+Fibroblast,SLC7A11,92
+Fibroblast,ANKH,93
+Fibroblast,COL4A1,94
+Fibroblast,ZSWIM6,95
+Fibroblast,LINC02147,96
+Fibroblast,TIMP3,97
+Fibroblast,ESYT2,98
+Fibroblast,PLCB4,99
+Fibroblast,TMEM132C,100
+Microglia Macrophage or T Cell,MALAT1,1
+Microglia Macrophage or T Cell,FRMD4A,2
+Microglia Macrophage or T Cell,PLXDC2,3
+Microglia Macrophage or T Cell,DOCK4,4
+Microglia Macrophage or T Cell,LRMDA,5
+Microglia Macrophage or T Cell,C3,6
+Microglia Macrophage or T Cell,LINC02798,7
+Microglia Macrophage or T Cell,ABR,8
+Microglia Macrophage or T Cell,SFMBT2,9
+Microglia Macrophage or T Cell,SYNDIG1,10
+Microglia Macrophage or T Cell,ITPR2,11
+Microglia Macrophage or T Cell,NEAT1,12
+Microglia Macrophage or T Cell,FOXN3,13
+Microglia Macrophage or T Cell,ARHGAP24,14
+Microglia Macrophage or T Cell,KCNQ3,15
+Microglia Macrophage or T Cell,APBB1IP,16
+Microglia Macrophage or T Cell,ST6GAL1,17
+Microglia Macrophage or T Cell,ADAMTSL2,18
+Microglia Macrophage or T Cell,EPB41L2,19
+Microglia Macrophage or T Cell,SRRM2,20
+Microglia Macrophage or T Cell,LDLRAD4,21
+Microglia Macrophage or T Cell,ELMO1,22
+Microglia Macrophage or T Cell,HSP90AA1,23
+Microglia Macrophage or T Cell,QKI,24
+Microglia Macrophage or T Cell,RBM25,25
+Microglia Macrophage or T Cell,LINC00486,26
+Microglia Macrophage or T Cell,LUC7L3,27
+Microglia Macrophage or T Cell,MYO1F,28
+Microglia Macrophage or T Cell,ST6GALNAC3,29
+Microglia Macrophage or T Cell,GRID2,30
+Microglia Macrophage or T Cell,INPP5D,31
+Microglia Macrophage or T Cell,PRRC2C,32
+Microglia Macrophage or T Cell,MACF1,33
+Microglia Macrophage or T Cell,SSH2,34
+Microglia Macrophage or T Cell,PCDH9,35
+Microglia Macrophage or T Cell,DOCK8,36
+Microglia Macrophage or T Cell,CSF2RA,37
+Microglia Macrophage or T Cell,MEF2A,38
+Microglia Macrophage or T Cell,AOAH,39
+Microglia Macrophage or T Cell,SPP1,40
+Microglia Macrophage or T Cell,CELF2,41
+Microglia Macrophage or T Cell,PTPRJ,42
+Microglia Macrophage or T Cell,MEF2C,43
+Microglia Macrophage or T Cell,DLEU1,44
+Microglia Macrophage or T Cell,SLC9A9,45
+Microglia Macrophage or T Cell,FMNL2,46
+Microglia Macrophage or T Cell,SORL1,47
+Microglia Macrophage or T Cell,MT-CO3,48
+Microglia Macrophage or T Cell,CYFIP1,49
+Microglia Macrophage or T Cell,RYR1,50
+Microglia Macrophage or T Cell,ZFHX3,51
+Microglia Macrophage or T Cell,RASGEF1C,52
+Microglia Macrophage or T Cell,SRGAP2,53
+Microglia Macrophage or T Cell,ZSWIM6,54
+Microglia Macrophage or T Cell,ARGLU1,55
+Microglia Macrophage or T Cell,TBXAS1,56
+Microglia Macrophage or T Cell,AUTS2,57
+Microglia Macrophage or T Cell,GNG7,58
+Microglia Macrophage or T Cell,DISC1,59
+Microglia Macrophage or T Cell,TCF12,60
+Microglia Macrophage or T Cell,MAML2,61
+Microglia Macrophage or T Cell,CHST11,62
+Microglia Macrophage or T Cell,SLC8A1,63
+Microglia Macrophage or T Cell,ZEB2,64
+Microglia Macrophage or T Cell,MT-CO1,65
+Microglia Macrophage or T Cell,ARHGAP26,66
+Microglia Macrophage or T Cell,ARHGAP22,67
+Microglia Macrophage or T Cell,MT-CO2,68
+Microglia Macrophage or T Cell,FYB1,69
+Microglia Macrophage or T Cell,SLCO2B1,70
+Microglia Macrophage or T Cell,ANKRD11,71
+Microglia Macrophage or T Cell,RUNX1,72
+Microglia Macrophage or T Cell,RNF213,73
+Microglia Macrophage or T Cell,FCHSD2,74
+Microglia Macrophage or T Cell,MERTK,75
+Microglia Macrophage or T Cell,MAP4K4,76
+Microglia Macrophage or T Cell,NAV3,77
+Microglia Macrophage or T Cell,MT-ND3,78
+Microglia Macrophage or T Cell,PICALM,79
+Microglia Macrophage or T Cell,XIST,80
+Microglia Macrophage or T Cell,LPP,81
+Microglia Macrophage or T Cell,GLDN,82
+Microglia Macrophage or T Cell,MT-ATP6,83
+Microglia Macrophage or T Cell,DST,84
+Microglia Macrophage or T Cell,PNISR,85
+Microglia Macrophage or T Cell,MAML3,86
+Microglia Macrophage or T Cell,ENSG00000285534,87
+Microglia Macrophage or T Cell,CYRIB,88
+Microglia Macrophage or T Cell,SLC1A3,89
+Microglia Macrophage or T Cell,UBE2E2,90
+Microglia Macrophage or T Cell,MT-ND4,91
+Microglia Macrophage or T Cell,MED13L,92
+Microglia Macrophage or T Cell,PRPF38B,93
+Microglia Macrophage or T Cell,ETV6,94
+Microglia Macrophage or T Cell,RERE,95
+Microglia Macrophage or T Cell,WWOX,96
+Microglia Macrophage or T Cell,DIAPH2,97
+Microglia Macrophage or T Cell,AKAP13,98
+Microglia Macrophage or T Cell,BMP2K,99
+Microglia Macrophage or T Cell,CSF1R,100
+Mural Cell,MALAT1,1
+Mural Cell,PDE4D,2
+Mural Cell,PRKG1,3
+Mural Cell,LPP,4
+Mural Cell,MYH11,5
+Mural Cell,CALD1,6
+Mural Cell,NEAT1,7
+Mural Cell,CACNA1C,8
+Mural Cell,DMD,9
+Mural Cell,ACTA2,10
+Mural Cell,TAGLN,11
+Mural Cell,CARMN,12
+Mural Cell,TALAM1,13
+Mural Cell,COL4A1,14
+Mural Cell,SORBS1,15
+Mural Cell,DLC1,16
+Mural Cell,SORBS2,17
+Mural Cell,RBPMS,18
+Mural Cell,LTBP1,19
+Mural Cell,DLG2,20
+Mural Cell,ZFHX3,21
+Mural Cell,RORA,22
+Mural Cell,EBF1,23
+Mural Cell,PDE3A,24
+Mural Cell,DSTN,25
+Mural Cell,RGS6,26
+Mural Cell,TPM1,27
+Mural Cell,MACF1,28
+Mural Cell,TPM2,29
+Mural Cell,SYNPO2,30
+Mural Cell,COL4A2,31
+Mural Cell,PTPRG,32
+Mural Cell,CRIM1,33
+Mural Cell,MYL9,34
+Mural Cell,EXT1,35
+Mural Cell,SLC6A1,36
+Mural Cell,SLIT3,37
+Mural Cell,KCNMA1,38
+Mural Cell,FTX,39
+Mural Cell,SOX5,40
+Mural Cell,IGFBP7,41
+Mural Cell,SGIP1,42
+Mural Cell,FN1,43
+Mural Cell,MBNL1,44
+Mural Cell,PDE1C,45
+Mural Cell,NAV2,46
+Mural Cell,ZBTB20,47
+Mural Cell,ATP1A2,48
+Mural Cell,WWOX,49
+Mural Cell,ACTB,50
+Mural Cell,ADAMTS9-AS2,51
+Mural Cell,SPARCL1,52
+Mural Cell,PPP1R12B,53
+Mural Cell,UTRN,54
+Mural Cell,EEF1A1,55
+Mural Cell,LAMA2,56
+Mural Cell,RYR2,57
+Mural Cell,PDZRN4,58
+Mural Cell,C1QTNF7-AS1,59
+Mural Cell,IGF1R,60
+Mural Cell,PDLIM5,61
+Mural Cell,VIM,62
+Mural Cell,RCAN2,63
+Mural Cell,AKAP6,64
+Mural Cell,AOPEP,65
+Mural Cell,ETV6,66
+Mural Cell,IMMP2L,67
+Mural Cell,FRY,68
+Mural Cell,SVIL,69
+Mural Cell,FOXP1,70
+Mural Cell,RBMS3,71
+Mural Cell,FLNA,72
+Mural Cell,ARHGAP10,73
+Mural Cell,SDK1,74
+Mural Cell,DST,75
+Mural Cell,ESYT2,76
+Mural Cell,XIST,77
+Mural Cell,ITGA1,78
+Mural Cell,LMOD1,79
+Mural Cell,PRUNE2,80
+Mural Cell,EPS8,81
+Mural Cell,TNS1,82
+Mural Cell,UBE2E2,83
+Mural Cell,NR2F2-AS1,84
+Mural Cell,UNC13C,85
+Mural Cell,ROR1,86
+Mural Cell,MIR99AHG,87
+Mural Cell,COL8A1,88
+Mural Cell,TRIO,89
+Mural Cell,PTH1R,90
+Mural Cell,HPSE2,91
+Mural Cell,AKT3,92
+Mural Cell,NFIA,93
+Mural Cell,SLC20A2,94
+Mural Cell,APBB2,95
+Mural Cell,GPC5,96
+Mural Cell,MT-CO1,97
+Mural Cell,ENAH,98
+Mural Cell,SETBP1,99
+Mural Cell,INPP4B,100
+Neuron,MALAT1,1
+Neuron,RBFOX1,2
+Neuron,KCNIP4,3
+Neuron,SNHG14,4
+Neuron,NRXN3,5
+Neuron,CNTNAP2,6
+Neuron,CADM2,7
+Neuron,ROBO2,8
+Neuron,DPP10,9
+Neuron,ERBB4,10
+Neuron,DLGAP1,11
+Neuron,CSMD1,12
+Neuron,DLG2,13
+Neuron,ADARB2,14
+Neuron,ADGRB3,15
+Neuron,NRXN1,16
+Neuron,SYT1,17
+Neuron,MT-CO2,18
+Neuron,MT-CO3,19
+Neuron,GRIK2,20
+Neuron,IL1RAPL1,21
+Neuron,LRRTM4,22
+Neuron,NRG3,23
+Neuron,KAZN,24
+Neuron,ANKS1B,25
+Neuron,LRP1B,26
+Neuron,MT-CO1,27
+Neuron,FRMD4A,28
+Neuron,LINC00632,29
+Neuron,FGF14,30
+Neuron,PCDH9,31
+Neuron,TENM2,32
+Neuron,AUTS2,33
+Neuron,RBFOX3,34
+Neuron,NALF1,35
+Neuron,LUC7L3,36
+Neuron,GALNTL6,37
+Neuron,ZNF385D,38
+Neuron,MEG3,39
+Neuron,MACROD2,40
+Neuron,GRIK1,41
+Neuron,CNTN5,42
+Neuron,MYT1L,43
+Neuron,LSAMP,44
+Neuron,KCND2,45
+Neuron,PTPRD,46
+Neuron,DLGAP2,47
+Neuron,PDE4D,48
+Neuron,GRID2,49
+Neuron,DPP6,50
+Neuron,OPCML,51
+Neuron,RBM25,52
+Neuron,FTX,53
+Neuron,SGCZ,54
+Neuron,STXBP5L,55
+Neuron,ARPP21,56
+Neuron,MT-ATP6,57
+Neuron,MAGI2,58
+Neuron,RIMS2,59
+Neuron,PTPRN2,60
+Neuron,RORA,61
+Neuron,PCLO,62
+Neuron,NLGN1,63
+Neuron,MAP1B,64
+Neuron,CHD5,65
+Neuron,SYNE1,66
+Neuron,ATRNL1,67
+Neuron,MT-ND4,68
+Neuron,ROBO1,69
+Neuron,NEGR1,70
+Neuron,KCNQ5,71
+Neuron,LINC00486,72
+Neuron,PLCB1,73
+Neuron,CCSER1,74
+Neuron,CDH18,75
+Neuron,PPFIA2,76
+Neuron,MT-ND3,77
+Neuron,CELF2,78
+Neuron,CACNA1A,79
+Neuron,RALYL,80
+Neuron,CSMD3,81
+Neuron,PRRC2C,82
+Neuron,SNTG1,83
+Neuron,TIAM1,84
+Neuron,PHACTR1,85
+Neuron,KCNMA1,86
+Neuron,SYN3,87
+Neuron,NKAIN2,88
+Neuron,KIRREL3,89
+Neuron,LRBA,90
+Neuron,CACNA1C,91
+Neuron,MACF1,92
+Neuron,DST,93
+Neuron,LINGO2,94
+Neuron,ADGRL3,95
+Neuron,ANK2,96
+Neuron,LRRC7,97
+Neuron,DOCK3,98
+Neuron,DAB1,99
+Neuron,DMD,100
+Oligodendrocyte,MALAT1,1
+Oligodendrocyte,PCDH9,2
+Oligodendrocyte,IL1RAPL1,3
+Oligodendrocyte,RNF220,4
+Oligodendrocyte,CTNNA3,5
+Oligodendrocyte,PPP2R2B,6
+Oligodendrocyte,QKI,7
+Oligodendrocyte,DLG2,8
+Oligodendrocyte,DST,9
+Oligodendrocyte,MAGI2,10
+Oligodendrocyte,SLC44A1,11
+Oligodendrocyte,NRXN3,12
+Oligodendrocyte,ST18,13
+Oligodendrocyte,PDE4B,14
+Oligodendrocyte,FMNL2,15
+Oligodendrocyte,TRIM2,16
+Oligodendrocyte,SLC24A2,17
+Oligodendrocyte,FRMD5,18
+Oligodendrocyte,MOBP,19
+Oligodendrocyte,SIK3,20
+Oligodendrocyte,SLC5A11,21
+Oligodendrocyte,NKAIN2,22
+Oligodendrocyte,PTPRD,23
+Oligodendrocyte,ELMO1,24
+Oligodendrocyte,MAP7,25
+Oligodendrocyte,PIP4K2A,26
+Oligodendrocyte,CADM2,27
+Oligodendrocyte,SLC7A14-AS1,28
+Oligodendrocyte,LUC7L3,29
+Oligodendrocyte,MBP,30
+Oligodendrocyte,TMTC2,31
+Oligodendrocyte,DOCK10,32
+Oligodendrocyte,PHLPP1,33
+Oligodendrocyte,RBFOX1,34
+Oligodendrocyte,FRMD4B,35
+Oligodendrocyte,MAN2A1,36
+Oligodendrocyte,ANK3,37
+Oligodendrocyte,NTM,38
+Oligodendrocyte,ZBTB20,39
+Oligodendrocyte,DNM3,40
+Oligodendrocyte,PLCL1,41
+Oligodendrocyte,POLR2F,42
+Oligodendrocyte,NCAM2,43
+Oligodendrocyte,GNG7,44
+Oligodendrocyte,MACF1,45
+Oligodendrocyte,RBM25,46
+Oligodendrocyte,PALM2AKAP2,47
+Oligodendrocyte,UNC5C,48
+Oligodendrocyte,DPYD,49
+Oligodendrocyte,SHTN1,50
+Oligodendrocyte,ANK2,51
+Oligodendrocyte,AGAP1,52
+Oligodendrocyte,ARGLU1,53
+Oligodendrocyte,EDIL3,54
+Oligodendrocyte,MAP1B,55
+Oligodendrocyte,ZEB2,56
+Oligodendrocyte,NCKAP5,57
+Oligodendrocyte,DIP2B,58
+Oligodendrocyte,PLEKHH1,59
+Oligodendrocyte,AUTS2,60
+Oligodendrocyte,TTLL7,61
+Oligodendrocyte,MAP4K4,62
+Oligodendrocyte,NCAM1,63
+Oligodendrocyte,PRRC2C,64
+Oligodendrocyte,TCF12,65
+Oligodendrocyte,SEPTIN7,66
+Oligodendrocyte,SRCIN1,67
+Oligodendrocyte,LINC00486,68
+Oligodendrocyte,PDE8A,69
+Oligodendrocyte,KIRREL3,70
+Oligodendrocyte,PRUNE2,71
+Oligodendrocyte,ZNF536,72
+Oligodendrocyte,MARCHF1,73
+Oligodendrocyte,CLASP2,74
+Oligodendrocyte,ARHGAP21,75
+Oligodendrocyte,NPAS3,76
+Oligodendrocyte,DLG1,77
+Oligodendrocyte,FUT8,78
+Oligodendrocyte,ANKS1B,79
+Oligodendrocyte,LIMCH1,80
+Oligodendrocyte,TMEM165,81
+Oligodendrocyte,HIP1,82
+Oligodendrocyte,ADGRB3,83
+Oligodendrocyte,PDE1C,84
+Oligodendrocyte,HSP90AA1,85
+Oligodendrocyte,CCDC88A,86
+Oligodendrocyte,TJP1,87
+Oligodendrocyte,XIST,88
+Oligodendrocyte,PXK,89
+Oligodendrocyte,SPOCK3,90
+Oligodendrocyte,SPOCK1,91
+Oligodendrocyte,C10ORF90,92
+Oligodendrocyte,RERE,93
+Oligodendrocyte,APBB2,94
+Oligodendrocyte,WWOX,95
+Oligodendrocyte,ERBIN,96
+Oligodendrocyte,FRYL,97
+Oligodendrocyte,PTK2,98
+Oligodendrocyte,PEX5L,99
+Oligodendrocyte,DOCK5,100
+Oligodendrocyte Precursor Cell,MALAT1,1
+Oligodendrocyte Precursor Cell,DSCAM,2
+Oligodendrocyte Precursor Cell,TNR,3
+Oligodendrocyte Precursor Cell,KCNIP4,4
+Oligodendrocyte Precursor Cell,OPCML,5
+Oligodendrocyte Precursor Cell,LRRC4C,6
+Oligodendrocyte Precursor Cell,LHFPL3,7
+Oligodendrocyte Precursor Cell,PCDH9,8
+Oligodendrocyte Precursor Cell,CSMD1,9
+Oligodendrocyte Precursor Cell,LRP1B,10
+Oligodendrocyte Precursor Cell,NRXN1,11
+Oligodendrocyte Precursor Cell,KAZN,12
+Oligodendrocyte Precursor Cell,LSAMP,13
+Oligodendrocyte Precursor Cell,NLGN1,14
+Oligodendrocyte Precursor Cell,XYLT1,15
+Oligodendrocyte Precursor Cell,DPP6,16
+Oligodendrocyte Precursor Cell,PCDH15,17
+Oligodendrocyte Precursor Cell,MACF1,18
+Oligodendrocyte Precursor Cell,CADM2,19
+Oligodendrocyte Precursor Cell,VCAN,20
+Oligodendrocyte Precursor Cell,NTM,21
+Oligodendrocyte Precursor Cell,SEZ6L,22
+Oligodendrocyte Precursor Cell,AGAP1,23
+Oligodendrocyte Precursor Cell,ANKS1B,24
+Oligodendrocyte Precursor Cell,LRRTM4,25
+Oligodendrocyte Precursor Cell,DST,26
+Oligodendrocyte Precursor Cell,ADARB2,27
+Oligodendrocyte Precursor Cell,PDZD2,28
+Oligodendrocyte Precursor Cell,GRID2,29
+Oligodendrocyte Precursor Cell,DLG2,30
+Oligodendrocyte Precursor Cell,ADGRL3,31
+Oligodendrocyte Precursor Cell,MMD2,32
+Oligodendrocyte Precursor Cell,EPN2,33
+Oligodendrocyte Precursor Cell,LUC7L3,34
+Oligodendrocyte Precursor Cell,PTPRZ1,35
+Oligodendrocyte Precursor Cell,KCNMB2,36
+Oligodendrocyte Precursor Cell,SOX6,37
+Oligodendrocyte Precursor Cell,IL1RAPL1,38
+Oligodendrocyte Precursor Cell,ADGRB3,39
+Oligodendrocyte Precursor Cell,SOX2-OT,40
+Oligodendrocyte Precursor Cell,CACNA1A,41
+Oligodendrocyte Precursor Cell,NRCAM,42
+Oligodendrocyte Precursor Cell,FGF12,43
+Oligodendrocyte Precursor Cell,SNTG1,44
+Oligodendrocyte Precursor Cell,QKI,45
+Oligodendrocyte Precursor Cell,CA10,46
+Oligodendrocyte Precursor Cell,FGF14,47
+Oligodendrocyte Precursor Cell,OPHN1,48
+Oligodendrocyte Precursor Cell,DLGAP1,49
+Oligodendrocyte Precursor Cell,SLC35F1,50
+Oligodendrocyte Precursor Cell,ARPP21,51
+Oligodendrocyte Precursor Cell,RBM25,52
+Oligodendrocyte Precursor Cell,HIP1,53
+Oligodendrocyte Precursor Cell,MDGA2,54
+Oligodendrocyte Precursor Cell,RORA,55
+Oligodendrocyte Precursor Cell,ERBB4,56
+Oligodendrocyte Precursor Cell,MMP16,57
+Oligodendrocyte Precursor Cell,NPAS3,58
+Oligodendrocyte Precursor Cell,PDE4B,59
+Oligodendrocyte Precursor Cell,NALF1,60
+Oligodendrocyte Precursor Cell,ZBTB20,61
+Oligodendrocyte Precursor Cell,CTNND2,62
+Oligodendrocyte Precursor Cell,FRMD4A,63
+Oligodendrocyte Precursor Cell,CHST11,64
+Oligodendrocyte Precursor Cell,NCAM2,65
+Oligodendrocyte Precursor Cell,CSMD3,66
+Oligodendrocyte Precursor Cell,ATRNL1,67
+Oligodendrocyte Precursor Cell,KCND2,68
+Oligodendrocyte Precursor Cell,NCAM1,69
+Oligodendrocyte Precursor Cell,SCD5,70
+Oligodendrocyte Precursor Cell,DGKG,71
+Oligodendrocyte Precursor Cell,LINC00486,72
+Oligodendrocyte Precursor Cell,LUZP2,73
+Oligodendrocyte Precursor Cell,ARGLU1,74
+Oligodendrocyte Precursor Cell,MT-CO2,75
+Oligodendrocyte Precursor Cell,MAML2,76
+Oligodendrocyte Precursor Cell,KIF13A,77
+Oligodendrocyte Precursor Cell,TAOK3,78
+Oligodendrocyte Precursor Cell,NOVA1,79
+Oligodendrocyte Precursor Cell,ASTN2,80
+Oligodendrocyte Precursor Cell,PNISR,81
+Oligodendrocyte Precursor Cell,ZSWIM6,82
+Oligodendrocyte Precursor Cell,NAV2,83
+Oligodendrocyte Precursor Cell,PPP2R2B,84
+Oligodendrocyte Precursor Cell,CLIP2,85
+Oligodendrocyte Precursor Cell,PRKCA,86
+Oligodendrocyte Precursor Cell,ZEB1,87
+Oligodendrocyte Precursor Cell,GRIA2,88
+Oligodendrocyte Precursor Cell,GNG7,89
+Oligodendrocyte Precursor Cell,SHISA9,90
+Oligodendrocyte Precursor Cell,XKR4,91
+Oligodendrocyte Precursor Cell,MARCHF1,92
+Oligodendrocyte Precursor Cell,DCC,93
+Oligodendrocyte Precursor Cell,DNM3,94
+Oligodendrocyte Precursor Cell,PRRC2C,95
+Oligodendrocyte Precursor Cell,MEGF11,96
+Oligodendrocyte Precursor Cell,LRRC7,97
+Oligodendrocyte Precursor Cell,NAV1,98
+Oligodendrocyte Precursor Cell,SGIP1,99
+Oligodendrocyte Precursor Cell,MAGI2,100
