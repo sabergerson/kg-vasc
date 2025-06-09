@@ -4,8 +4,8 @@ Brain vasculature knowledge graph.
 
 Not uploaded:  
 data/raw/c2s_all.csv (5.06 GB)  
-data/transformed/c2s_all/c2s_all_c_edges.tsv (XX.X GB)  
-data/transformed/c2s_all/c2s_all_c_nodes.tsv (XXX.X MB)  
+data/transformed/c2s_all/c2s_all_c_edges.tsv (21.77 GB)  
+data/transformed/c2s_all/c2s_all_c_nodes.tsv (170.5 MB)  
 data/transformed/c2s_all/c2s_all_g_nodes.tsv (Hopefully small enough)  
 
 
