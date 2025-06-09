@@ -1,0 +1,10 @@
+id	category	name	description	provided_by
+uuid:3dee0900-761c-58e6-864c-c5033c324705	biolink:AnatomicalEntity	Astrocyte	Astrocyte across tissues	KIBR; Stanford University
+uuid:f4adcea1-ad27-59ee-9367-ab347b6237fe	biolink:AnatomicalEntity	Endothelial	Endothelial across tissues	KIBR; Stanford University
+uuid:3521ca5e-f9c6-5554-9e7b-ab49edd2515e	biolink:AnatomicalEntity	Ependymal Epithelial Cell	Ependymal Epithelial Cell across tissues	KIBR; Stanford University
+uuid:3077f88e-1d4b-5198-a70c-7f4dc02e20d8	biolink:AnatomicalEntity	Fibroblast	Fibroblast across tissues	KIBR; Stanford University
+uuid:0f759405-bdcc-534c-a89f-f1d53ee4083e	biolink:AnatomicalEntity	Microglia Macrophage or T Cell	Microglia Macrophage or T Cell across tissues	KIBR; Stanford University
+uuid:07f3fd3d-c55e-5a74-a4eb-89e534777c3b	biolink:AnatomicalEntity	Mural Cell	Mural Cell across tissues	KIBR; Stanford University
+uuid:ea131a2a-ac01-54bc-8813-d28cd1887577	biolink:AnatomicalEntity	Neuron	Neuron across tissues	KIBR; Stanford University
+uuid:599cb00b-baf9-51a5-8652-97b18925e6bd	biolink:AnatomicalEntity	Oligodendrocyte	Oligodendrocyte across tissues	KIBR; Stanford University
+uuid:91283de0-5563-5af2-8fa4-4b34c5e23a71	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell	Oligodendrocyte Precursor Cell across tissues	KIBR; Stanford University

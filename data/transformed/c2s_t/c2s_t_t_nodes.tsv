@@ -1,0 +1,42 @@
+id	category	name	description	provided_by
+uuid:340ea2e9-af36-5d31-9645-757d0cb1f3b8	biolink:AnatomicalEntity	Amygdala	Amygdala across cell types	KIBR; Stanford University
+uuid:611a1bfd-706c-5a7c-8c10-1fa402e4ea0a	biolink:AnatomicalEntity	Anterior Cerebral Artery	Anterior Cerebral Artery across cell types	KIBR; Stanford University
+uuid:45be32c1-025f-522a-b87b-b6d3d80df5ef	biolink:AnatomicalEntity	Anterior Cingulate Cortex	Anterior Cingulate Cortex across cell types	KIBR; Stanford University
+uuid:ff448758-5eef-51cc-8827-fc4d3beb5a55	biolink:AnatomicalEntity	Basilar Artery / Circle of Willis	Basilar Artery / Circle of Willis across cell types	KIBR; Stanford University
+uuid:83630ab8-27bd-51bf-a2a9-db80b79f2347	biolink:AnatomicalEntity	Caudate and Putamen	Caudate and Putamen across cell types	KIBR; Stanford University
+uuid:f9e4b4fa-9d94-55f7-bc12-8768d894f443	biolink:AnatomicalEntity	Cerebellum	Cerebellum across cell types	KIBR; Stanford University
+uuid:3f8f06a3-d3db-5e1f-bab2-e36ce11bd3be	biolink:AnatomicalEntity	Cingulum Bundle	Cingulum Bundle across cell types	KIBR; Stanford University
+uuid:c27c535d-2890-591b-a8a7-f795e300fdad	biolink:AnatomicalEntity	Corpus Callosum	Corpus Callosum across cell types	KIBR; Stanford University
+uuid:473b376b-3801-5e40-a9e9-bf6afcc594d8	biolink:AnatomicalEntity	Cuneus	Cuneus across cell types	KIBR; Stanford University
+uuid:c0cfd526-0d9d-54e6-83ce-cbae24d86e78	biolink:AnatomicalEntity	Dorsolateral Prefrontal Cortex	Dorsolateral Prefrontal Cortex across cell types	KIBR; Stanford University
+uuid:78212b92-1dfc-5a96-b9ee-cf00b7a875fa	biolink:AnatomicalEntity	Entorhinal Cortex	Entorhinal Cortex across cell types	KIBR; Stanford University
+uuid:b7dbd2e8-34e3-5b4b-b3bf-ae06abcb60ed	biolink:AnatomicalEntity	Fornix	Fornix across cell types	KIBR; Stanford University
+uuid:7d42f566-80c0-59d6-87c3-64c3a81506e6	biolink:AnatomicalEntity	Fusiform Gyrus	Fusiform Gyrus across cell types	KIBR; Stanford University
+uuid:45a3a27d-71a8-57f1-b0af-27ebbc4c0462	biolink:AnatomicalEntity	Hippocampus and Entorhinal Cortex	Hippocampus and Entorhinal Cortex across cell types	KIBR; Stanford University
+uuid:d2c0194a-46ed-5b37-947d-154803b1ff64	biolink:AnatomicalEntity	Inferior Frontal Gyrus	Inferior Frontal Gyrus across cell types	KIBR; Stanford University
+uuid:7c1c6313-29ee-5269-b96c-bd664efa28c9	biolink:AnatomicalEntity	Inferior Parietal Lobule / Supramarginal Gyrus	Inferior Parietal Lobule / Supramarginal Gyrus across cell types	KIBR; Stanford University
+uuid:d2a8fb52-61a7-54f2-82eb-d3a9e9153ab8	biolink:AnatomicalEntity	Inferior Temporal Gyrus	Inferior Temporal Gyrus across cell types	KIBR; Stanford University
+uuid:e81ab18e-097a-5f8a-ae6a-068f668239fd	biolink:AnatomicalEntity	Insular Cortex	Insular Cortex across cell types	KIBR; Stanford University
+uuid:63ab517c-cb82-52d2-86e2-f261c94ba89e	biolink:AnatomicalEntity	Lateral Occipital Cortex	Lateral Occipital Cortex across cell types	KIBR; Stanford University
+uuid:660f8714-73b9-532c-9561-0924404ec176	biolink:AnatomicalEntity	Lateral Temporal Gyrus	Lateral Temporal Gyrus across cell types	KIBR; Stanford University
+uuid:995bdb3b-14e9-5f40-885c-88363b7c0683	biolink:AnatomicalEntity	Leptomeninges	Leptomeninges across cell types	KIBR; Stanford University
+uuid:378a5a04-ae43-55ec-8c8c-330684197312	biolink:AnatomicalEntity	Lingual Gyrus	Lingual Gyrus across cell types	KIBR; Stanford University
+uuid:90226059-650f-594a-a834-a0fcc40fee03	biolink:AnatomicalEntity	Midbrain	Midbrain across cell types	KIBR; Stanford University
+uuid:76cec2dd-b20e-5508-87d5-4d89cf9a4861	biolink:AnatomicalEntity	Middle Cerebral Artery	Middle Cerebral Artery across cell types	KIBR; Stanford University
+uuid:96041a15-5bba-51c9-b3c7-7407c82f1f18	biolink:AnatomicalEntity	Middle Temporal Gyrus	Middle Temporal Gyrus across cell types	KIBR; Stanford University
+uuid:f3b2db4e-281f-5757-8215-03120711b2bf	biolink:AnatomicalEntity	Olfactory Bulb	Olfactory Bulb across cell types	KIBR; Stanford University
+uuid:0080e7b6-13f6-5de2-9860-81bb7e28187b	biolink:AnatomicalEntity	Orbitofrontal Cortex	Orbitofrontal Cortex across cell types	KIBR; Stanford University
+uuid:24235513-06c6-5921-af10-8be656c69c14	biolink:AnatomicalEntity	Parahippocampal Gyrus	Parahippocampal Gyrus across cell types	KIBR; Stanford University
+uuid:7af25993-13e9-5eac-b90d-ba6612f9534e	biolink:AnatomicalEntity	Periventricular White Matter	Periventricular White Matter across cell types	KIBR; Stanford University
+uuid:7a53641d-c7e2-51c5-a5fc-90439e389e40	biolink:AnatomicalEntity	Pons	Pons across cell types	KIBR; Stanford University
+uuid:4f94cdfa-2f1e-5d34-aa9d-81c23a26a397	biolink:AnatomicalEntity	Posterior Cingulate Cortex	Posterior Cingulate Cortex across cell types	KIBR; Stanford University
+uuid:62fd39b1-de91-53d0-821f-b230125ded5c	biolink:AnatomicalEntity	Precuneus	Precuneus across cell types	KIBR; Stanford University
+uuid:ec93c0a6-1403-572b-bcd0-e63ad3c87926	biolink:AnatomicalEntity	Spinal Cord	Spinal Cord across cell types	KIBR; Stanford University
+uuid:993a4b23-994f-5bb3-9e59-3847fbe8b2d9	biolink:AnatomicalEntity	Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Superior Frontal Gyrus / Rostromedial Prefrontal Cortex across cell types	KIBR; Stanford University
+uuid:cf156fb7-fee0-5bd1-a050-09e9256856e3	biolink:AnatomicalEntity	Superior Parietal Lobule	Superior Parietal Lobule across cell types	KIBR; Stanford University
+uuid:6dbc087c-fd31-5d7a-b22b-97f65c806ba0	biolink:AnatomicalEntity	Superior Temporal Gyrus	Superior Temporal Gyrus across cell types	KIBR; Stanford University
+uuid:c14e7265-403f-5bb4-bf31-01e2187cffa0	biolink:AnatomicalEntity	Supramarginal Gyrus	Supramarginal Gyrus across cell types	KIBR; Stanford University
+uuid:bfb96daf-7521-58f3-8180-f8c97dd20303	biolink:AnatomicalEntity	Thalamus	Thalamus across cell types	KIBR; Stanford University
+uuid:06ee58bd-8a3e-51ce-8425-0b493537b482	biolink:AnatomicalEntity	Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone across cell types	KIBR; Stanford University
+uuid:2fa2d634-5d8c-52bf-b4df-edfff30b64b8	biolink:AnatomicalEntity	Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone across cell types	KIBR; Stanford University
+uuid:62ca229d-8603-5933-b711-05418faa437e	biolink:AnatomicalEntity	White Matter Watershed Area supplied by the Anterior Cerebral Artery	White Matter Watershed Area supplied by the Anterior Cerebral Artery across cell types	KIBR; Stanford University

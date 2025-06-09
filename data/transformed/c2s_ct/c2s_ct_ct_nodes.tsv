@@ -1,0 +1,358 @@
+id	category	name	description	provided_by
+uuid:55f07977-8ac5-5f34-a10f-97062cedfc95	biolink:AnatomicalEntity	Astrocyte in Amygdala	Astrocyte in Amygdala	KIBR; Stanford University
+uuid:fe1496a1-bf30-5ff0-a242-10fce032a7e2	biolink:AnatomicalEntity	Astrocyte in Anterior Cerebral Artery	Astrocyte in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:15cb6912-23cf-5245-b41d-14d0c2d56e3a	biolink:AnatomicalEntity	Astrocyte in Anterior Cingulate Cortex	Astrocyte in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:d2cd510a-0074-5f6f-9c06-bd740e3a5452	biolink:AnatomicalEntity	Astrocyte in Basilar Artery / Circle of Willis	Astrocyte in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:c4da1f64-7c4d-5335-9257-e72490931766	biolink:AnatomicalEntity	Astrocyte in Caudate and Putamen	Astrocyte in Caudate and Putamen	KIBR; Stanford University
+uuid:85cb1066-4bad-5721-bcb2-5db344c390a8	biolink:AnatomicalEntity	Astrocyte in Cerebellum	Astrocyte in Cerebellum	KIBR; Stanford University
+uuid:23a865ba-911c-574c-81ee-32f3958bd684	biolink:AnatomicalEntity	Astrocyte in Cingulum Bundle	Astrocyte in Cingulum Bundle	KIBR; Stanford University
+uuid:b1eba932-3aa0-5f07-ba39-ac9f17ed8efe	biolink:AnatomicalEntity	Astrocyte in Corpus Callosum	Astrocyte in Corpus Callosum	KIBR; Stanford University
+uuid:80b75e4c-025f-5fd4-bd30-a184308564d8	biolink:AnatomicalEntity	Astrocyte in Cuneus	Astrocyte in Cuneus	KIBR; Stanford University
+uuid:363e93ed-c1b2-5088-8fc1-8e8cb93de5c5	biolink:AnatomicalEntity	Astrocyte in Dorsolateral Prefrontal Cortex	Astrocyte in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:27af49d6-b814-5eba-9879-089ea233040f	biolink:AnatomicalEntity	Astrocyte in Entorhinal Cortex	Astrocyte in Entorhinal Cortex	KIBR; Stanford University
+uuid:ad04f72e-0be1-5007-b6bc-9e5334525225	biolink:AnatomicalEntity	Astrocyte in Fornix	Astrocyte in Fornix	KIBR; Stanford University
+uuid:fa69a90e-3e0a-5e1d-9d93-0634227f9544	biolink:AnatomicalEntity	Astrocyte in Fusiform Gyrus	Astrocyte in Fusiform Gyrus	KIBR; Stanford University
+uuid:1e3d9760-3f90-5cb8-a329-b508825240a6	biolink:AnatomicalEntity	Astrocyte in Hippocampus and Entorhinal Cortex	Astrocyte in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:95efc962-2360-5f0c-a554-c0e678a63b3b	biolink:AnatomicalEntity	Astrocyte in Inferior Frontal Gyrus	Astrocyte in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:e98dd419-8de1-5e5b-9c08-190208f41499	biolink:AnatomicalEntity	Astrocyte in Inferior Parietal Lobule / Supramarginal Gyrus	Astrocyte in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:dd23dad7-9405-5c43-951f-0d60a85ba17c	biolink:AnatomicalEntity	Astrocyte in Inferior Temporal Gyrus	Astrocyte in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:f61e5e5a-9678-5081-a20b-586da45a6481	biolink:AnatomicalEntity	Astrocyte in Insular Cortex	Astrocyte in Insular Cortex	KIBR; Stanford University
+uuid:85eb0142-f4b2-5592-ac0c-791331ac78a0	biolink:AnatomicalEntity	Astrocyte in Lateral Occipital Cortex	Astrocyte in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:eed28b02-40f6-5c8c-9f5d-d2edee2910f0	biolink:AnatomicalEntity	Astrocyte in Lateral Temporal Gyrus	Astrocyte in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:b58cc59a-9a0d-5238-977b-726bfc1d9330	biolink:AnatomicalEntity	Astrocyte in Leptomeninges	Astrocyte in Leptomeninges	KIBR; Stanford University
+uuid:39230fa9-20d6-5f0a-8738-635e550ea20b	biolink:AnatomicalEntity	Astrocyte in Lingual Gyrus	Astrocyte in Lingual Gyrus	KIBR; Stanford University
+uuid:2ee6b5b8-305f-50e3-9f44-2602f1745a88	biolink:AnatomicalEntity	Astrocyte in Midbrain	Astrocyte in Midbrain	KIBR; Stanford University
+uuid:17850e19-575c-5332-8e1f-1b86096148e8	biolink:AnatomicalEntity	Astrocyte in Middle Cerebral Artery	Astrocyte in Middle Cerebral Artery	KIBR; Stanford University
+uuid:b3338c05-f3f2-57bd-b783-a13504356ab3	biolink:AnatomicalEntity	Astrocyte in Middle Temporal Gyrus	Astrocyte in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:cb1c2ca3-b10b-53e4-b48d-5979595175bf	biolink:AnatomicalEntity	Astrocyte in Olfactory Bulb	Astrocyte in Olfactory Bulb	KIBR; Stanford University
+uuid:46a22094-48e4-5f72-b141-b0ef5e666e23	biolink:AnatomicalEntity	Astrocyte in Orbitofrontal Cortex	Astrocyte in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:c3a431f3-1b67-5f1e-92b9-653038f2c929	biolink:AnatomicalEntity	Astrocyte in Parahippocampal Gyrus	Astrocyte in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:05d6f6ae-9770-5b73-a485-dcfbc86d6d60	biolink:AnatomicalEntity	Astrocyte in Periventricular White Matter	Astrocyte in Periventricular White Matter	KIBR; Stanford University
+uuid:95db9ad5-8346-500e-b36a-b17170129420	biolink:AnatomicalEntity	Astrocyte in Pons	Astrocyte in Pons	KIBR; Stanford University
+uuid:9f93381f-53ea-5bdc-9dac-13a836d0cd9b	biolink:AnatomicalEntity	Astrocyte in Posterior Cingulate Cortex	Astrocyte in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:902b4edf-6e64-51a6-89a7-9172e21d51c4	biolink:AnatomicalEntity	Astrocyte in Precuneus	Astrocyte in Precuneus	KIBR; Stanford University
+uuid:3a1c7cc4-938a-54b6-9dad-797d17b11d1d	biolink:AnatomicalEntity	Astrocyte in Spinal Cord	Astrocyte in Spinal Cord	KIBR; Stanford University
+uuid:0c421bf8-fbb1-556e-a509-0ac5bdebad10	biolink:AnatomicalEntity	Astrocyte in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Astrocyte in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:cfbfac71-072d-5731-900d-4f0309c55031	biolink:AnatomicalEntity	Astrocyte in Superior Parietal Lobule	Astrocyte in Superior Parietal Lobule	KIBR; Stanford University
+uuid:7f06ddc9-2587-5c21-af3d-6e55999ce500	biolink:AnatomicalEntity	Astrocyte in Superior Temporal Gyrus	Astrocyte in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:0a9a8c2a-4f42-584d-9053-78f66fa92374	biolink:AnatomicalEntity	Astrocyte in Supramarginal Gyrus	Astrocyte in Supramarginal Gyrus	KIBR; Stanford University
+uuid:eaee4660-b03b-5152-abd4-0216dceba2d9	biolink:AnatomicalEntity	Astrocyte in Thalamus	Astrocyte in Thalamus	KIBR; Stanford University
+uuid:dac6c20a-b45a-5a3a-8bc7-07cea20ec309	biolink:AnatomicalEntity	Astrocyte in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Astrocyte in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:8afd21ff-699d-577b-a07e-1c976f4cd450	biolink:AnatomicalEntity	Astrocyte in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Astrocyte in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:4236bfee-9aee-5e89-b841-a3b5c784dbaf	biolink:AnatomicalEntity	Astrocyte in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Astrocyte in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:7b5608c8-8282-5a54-986e-34993861fd29	biolink:AnatomicalEntity	Endothelial in Amygdala	Endothelial in Amygdala	KIBR; Stanford University
+uuid:4bc05801-30a2-57bd-bf5c-6cf864e761a9	biolink:AnatomicalEntity	Endothelial in Anterior Cerebral Artery	Endothelial in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:8387dc8b-aefb-5660-a88f-3ca28adc5fb7	biolink:AnatomicalEntity	Endothelial in Anterior Cingulate Cortex	Endothelial in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:efe29de2-fe0c-5ce9-9314-dea3f63f3e0a	biolink:AnatomicalEntity	Endothelial in Basilar Artery / Circle of Willis	Endothelial in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:8d5eefae-ecf7-55fc-8981-92e3857e6f09	biolink:AnatomicalEntity	Endothelial in Caudate and Putamen	Endothelial in Caudate and Putamen	KIBR; Stanford University
+uuid:1f788aa7-f431-55e1-833e-69adeb01a3b5	biolink:AnatomicalEntity	Endothelial in Cerebellum	Endothelial in Cerebellum	KIBR; Stanford University
+uuid:0829efbd-26b8-52a5-a123-a1b7d794d53e	biolink:AnatomicalEntity	Endothelial in Cingulum Bundle	Endothelial in Cingulum Bundle	KIBR; Stanford University
+uuid:1cffeae2-fcc8-59e1-9144-91a0aca05847	biolink:AnatomicalEntity	Endothelial in Corpus Callosum	Endothelial in Corpus Callosum	KIBR; Stanford University
+uuid:7f1fc72d-267f-56b7-8e80-c20867d4fd7a	biolink:AnatomicalEntity	Endothelial in Cuneus	Endothelial in Cuneus	KIBR; Stanford University
+uuid:6f30b0f1-4da4-5bfc-873f-338637942131	biolink:AnatomicalEntity	Endothelial in Dorsolateral Prefrontal Cortex	Endothelial in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:ac23eda1-6cd9-5e66-9e4b-7c33cf1c5e09	biolink:AnatomicalEntity	Endothelial in Entorhinal Cortex	Endothelial in Entorhinal Cortex	KIBR; Stanford University
+uuid:33a697fe-9410-537e-a9c1-7728653992be	biolink:AnatomicalEntity	Endothelial in Fornix	Endothelial in Fornix	KIBR; Stanford University
+uuid:5aadde4c-3075-5df3-b004-91cbb8933027	biolink:AnatomicalEntity	Endothelial in Fusiform Gyrus	Endothelial in Fusiform Gyrus	KIBR; Stanford University
+uuid:e5930813-3b60-5dbb-bea9-5c0c9a537efe	biolink:AnatomicalEntity	Endothelial in Hippocampus and Entorhinal Cortex	Endothelial in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:d5032b3e-fc07-5d29-b709-df5bc08edcac	biolink:AnatomicalEntity	Endothelial in Inferior Frontal Gyrus	Endothelial in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:b3c48c51-da78-5de3-a46f-db3a99dcd24f	biolink:AnatomicalEntity	Endothelial in Inferior Parietal Lobule / Supramarginal Gyrus	Endothelial in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:075b648a-92ed-50d3-9fb3-8ae5a2804c1f	biolink:AnatomicalEntity	Endothelial in Inferior Temporal Gyrus	Endothelial in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:ddfd8480-c404-5fc9-bd9d-eadf0c483631	biolink:AnatomicalEntity	Endothelial in Insular Cortex	Endothelial in Insular Cortex	KIBR; Stanford University
+uuid:5ec9fdd7-1299-58ff-b233-09a92fc4a4fa	biolink:AnatomicalEntity	Endothelial in Lateral Occipital Cortex	Endothelial in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:a76d594d-8561-5f42-804d-b83b0cd2f9c0	biolink:AnatomicalEntity	Endothelial in Lateral Temporal Gyrus	Endothelial in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:fd51ae43-a6c8-50f0-9c3a-56f49900d913	biolink:AnatomicalEntity	Endothelial in Leptomeninges	Endothelial in Leptomeninges	KIBR; Stanford University
+uuid:b83e7f4e-4a76-501f-9c46-832469864b10	biolink:AnatomicalEntity	Endothelial in Lingual Gyrus	Endothelial in Lingual Gyrus	KIBR; Stanford University
+uuid:6fbf8411-2fec-54b2-a579-b455b9a856c0	biolink:AnatomicalEntity	Endothelial in Midbrain	Endothelial in Midbrain	KIBR; Stanford University
+uuid:ee51299d-8958-5f5b-8bc6-db0378675bd3	biolink:AnatomicalEntity	Endothelial in Middle Cerebral Artery	Endothelial in Middle Cerebral Artery	KIBR; Stanford University
+uuid:b3dd1825-d85b-527b-87db-3ae30964cfb3	biolink:AnatomicalEntity	Endothelial in Middle Temporal Gyrus	Endothelial in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:5ea1c235-7be4-5529-84fd-eba8cef0a5ba	biolink:AnatomicalEntity	Endothelial in Olfactory Bulb	Endothelial in Olfactory Bulb	KIBR; Stanford University
+uuid:00fc4607-a50c-5b08-990c-8fe2ef4dbb8b	biolink:AnatomicalEntity	Endothelial in Orbitofrontal Cortex	Endothelial in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:13fb0415-1ad6-57c2-b4d1-246e32011318	biolink:AnatomicalEntity	Endothelial in Parahippocampal Gyrus	Endothelial in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:0794b391-75c6-5cc1-8d74-0d57a4cf15e1	biolink:AnatomicalEntity	Endothelial in Periventricular White Matter	Endothelial in Periventricular White Matter	KIBR; Stanford University
+uuid:a541dd05-bad1-5dd8-8d85-d8d26297eefe	biolink:AnatomicalEntity	Endothelial in Pons	Endothelial in Pons	KIBR; Stanford University
+uuid:12fbcd8c-943b-5a52-90c8-061be9da24be	biolink:AnatomicalEntity	Endothelial in Posterior Cingulate Cortex	Endothelial in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:7a0fd998-43cb-566b-9364-ec0a55351be3	biolink:AnatomicalEntity	Endothelial in Precuneus	Endothelial in Precuneus	KIBR; Stanford University
+uuid:a0eda2e5-8691-53a6-a8a1-d99fd0a813c5	biolink:AnatomicalEntity	Endothelial in Spinal Cord	Endothelial in Spinal Cord	KIBR; Stanford University
+uuid:c4785b92-affd-544c-8ebd-8ac25f1a2a0e	biolink:AnatomicalEntity	Endothelial in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Endothelial in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:6577e90c-d5f5-578d-8dc9-d719798c5c03	biolink:AnatomicalEntity	Endothelial in Superior Parietal Lobule	Endothelial in Superior Parietal Lobule	KIBR; Stanford University
+uuid:6e48b1d2-076b-50bb-998e-b37bf9b756c8	biolink:AnatomicalEntity	Endothelial in Superior Temporal Gyrus	Endothelial in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:e8a1e726-1f20-5026-94db-8976a32ed7b6	biolink:AnatomicalEntity	Endothelial in Supramarginal Gyrus	Endothelial in Supramarginal Gyrus	KIBR; Stanford University
+uuid:51d84e97-380f-5d5a-b8d4-22a96be79a7c	biolink:AnatomicalEntity	Endothelial in Thalamus	Endothelial in Thalamus	KIBR; Stanford University
+uuid:617224c4-cf19-5f4a-8ebf-785190142cdc	biolink:AnatomicalEntity	Endothelial in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Endothelial in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:e806eaec-d019-5301-8250-e132c41ce66f	biolink:AnatomicalEntity	Endothelial in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Endothelial in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:0e39e8e1-adc9-54b6-baa8-b78239e05224	biolink:AnatomicalEntity	Endothelial in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Endothelial in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:ac95c30d-ae8a-5b15-ada9-386ee320181e	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Anterior Cerebral Artery	Ependymal Epithelial Cell in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:e6a5e12b-05c6-5215-a6b7-4e7dbc891135	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Anterior Cingulate Cortex	Ependymal Epithelial Cell in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:a29e5d6c-8931-58d4-83a3-34b58d6a519c	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Basilar Artery / Circle of Willis	Ependymal Epithelial Cell in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:d820e3de-f55e-5c8c-9375-4a7e6df928a2	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Caudate and Putamen	Ependymal Epithelial Cell in Caudate and Putamen	KIBR; Stanford University
+uuid:e7ea556c-466a-53d1-9f3c-f3c65e911849	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Cingulum Bundle	Ependymal Epithelial Cell in Cingulum Bundle	KIBR; Stanford University
+uuid:b8974f0c-e29e-5cbb-8afb-048f6e4004d0	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Corpus Callosum	Ependymal Epithelial Cell in Corpus Callosum	KIBR; Stanford University
+uuid:e70e262e-5503-588d-a440-8686d082c40c	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Cuneus	Ependymal Epithelial Cell in Cuneus	KIBR; Stanford University
+uuid:ce998211-ca27-5445-b527-385727ebe4d7	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Entorhinal Cortex	Ependymal Epithelial Cell in Entorhinal Cortex	KIBR; Stanford University
+uuid:ee407ad4-c706-5bbf-93ff-2af7dfd5addf	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Fornix	Ependymal Epithelial Cell in Fornix	KIBR; Stanford University
+uuid:a2c4bd72-432d-5164-a83b-953e22dd662c	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Hippocampus and Entorhinal Cortex	Ependymal Epithelial Cell in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:047f5692-cd25-5c7b-be73-137a7396a4c2	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Inferior Parietal Lobule / Supramarginal Gyrus	Ependymal Epithelial Cell in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:541b1345-42fe-50b5-8911-7e70dbb931ea	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Inferior Temporal Gyrus	Ependymal Epithelial Cell in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:cdf5d2d7-bd9b-5f88-bdad-dedc6c725f1f	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Leptomeninges	Ependymal Epithelial Cell in Leptomeninges	KIBR; Stanford University
+uuid:2d400d12-fbaf-5490-84de-15663c460d6f	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Lingual Gyrus	Ependymal Epithelial Cell in Lingual Gyrus	KIBR; Stanford University
+uuid:2bf9bef0-1a43-5554-a81b-e8f4ae35307d	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Midbrain	Ependymal Epithelial Cell in Midbrain	KIBR; Stanford University
+uuid:885f6726-3e0a-546b-a32d-82a46d467b92	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Middle Cerebral Artery	Ependymal Epithelial Cell in Middle Cerebral Artery	KIBR; Stanford University
+uuid:ad24ae89-09bd-5710-b350-d5fa533440ec	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Olfactory Bulb	Ependymal Epithelial Cell in Olfactory Bulb	KIBR; Stanford University
+uuid:f227de5e-4f22-5124-b581-493f59ee3995	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Parahippocampal Gyrus	Ependymal Epithelial Cell in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:3d720d7e-3d74-560d-a2f0-ba3fd9ebf0c0	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Periventricular White Matter	Ependymal Epithelial Cell in Periventricular White Matter	KIBR; Stanford University
+uuid:921e7a43-2519-5877-bc94-51d0bc8677b1	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Pons	Ependymal Epithelial Cell in Pons	KIBR; Stanford University
+uuid:0a94399e-4cd7-5a39-b522-3cedda5e678a	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Posterior Cingulate Cortex	Ependymal Epithelial Cell in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:333cabdc-a310-5bcc-99e8-8221becfd067	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Spinal Cord	Ependymal Epithelial Cell in Spinal Cord	KIBR; Stanford University
+uuid:5fe8691a-7878-5665-8da1-06899068a91f	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Ependymal Epithelial Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:14e912b5-9a2a-5557-b758-83ff4693ae59	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Superior Parietal Lobule	Ependymal Epithelial Cell in Superior Parietal Lobule	KIBR; Stanford University
+uuid:609ce38f-b5ee-532d-9114-8c6477b1658e	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Supramarginal Gyrus	Ependymal Epithelial Cell in Supramarginal Gyrus	KIBR; Stanford University
+uuid:41a411dd-637a-56e0-ad43-b45e80721962	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Thalamus	Ependymal Epithelial Cell in Thalamus	KIBR; Stanford University
+uuid:85741fa6-2c97-5ded-afbd-767396df4993	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Ependymal Epithelial Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:5ebb5982-2e83-555e-8f38-cd1b082f2103	biolink:AnatomicalEntity	Ependymal Epithelial Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Ependymal Epithelial Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:55bac990-ebeb-53d1-aba0-15762c1d6ded	biolink:AnatomicalEntity	Ependymal Epithelial Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Ependymal Epithelial Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:7d4fc253-d11d-57c2-9910-9e97bc7d2071	biolink:AnatomicalEntity	Fibroblast in Amygdala	Fibroblast in Amygdala	KIBR; Stanford University
+uuid:c12ddb1d-c59b-5968-b102-4b306c03d96f	biolink:AnatomicalEntity	Fibroblast in Anterior Cerebral Artery	Fibroblast in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:e59c604b-75ee-53d0-875b-76ce04b8e5b7	biolink:AnatomicalEntity	Fibroblast in Anterior Cingulate Cortex	Fibroblast in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:882e7e6e-c193-5e1e-a616-33333a821519	biolink:AnatomicalEntity	Fibroblast in Basilar Artery / Circle of Willis	Fibroblast in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:05a15fec-b75c-5798-9689-905d45b38cdc	biolink:AnatomicalEntity	Fibroblast in Caudate and Putamen	Fibroblast in Caudate and Putamen	KIBR; Stanford University
+uuid:6b5b2c27-6d88-5a91-befb-e4985a42acde	biolink:AnatomicalEntity	Fibroblast in Cerebellum	Fibroblast in Cerebellum	KIBR; Stanford University
+uuid:8aa67ac8-bf43-5598-81d7-e3444d3765c6	biolink:AnatomicalEntity	Fibroblast in Cingulum Bundle	Fibroblast in Cingulum Bundle	KIBR; Stanford University
+uuid:75cf7cfe-1b2e-5d40-8670-e6e278774837	biolink:AnatomicalEntity	Fibroblast in Corpus Callosum	Fibroblast in Corpus Callosum	KIBR; Stanford University
+uuid:8474c046-e3eb-5fde-9f0c-8ce9b717a8c6	biolink:AnatomicalEntity	Fibroblast in Cuneus	Fibroblast in Cuneus	KIBR; Stanford University
+uuid:7da24ed0-b607-512f-b40d-e259a86608e1	biolink:AnatomicalEntity	Fibroblast in Dorsolateral Prefrontal Cortex	Fibroblast in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:1ec7954f-8e4a-5833-809f-a25ca36c5526	biolink:AnatomicalEntity	Fibroblast in Entorhinal Cortex	Fibroblast in Entorhinal Cortex	KIBR; Stanford University
+uuid:4b21e1ae-0154-5e64-9d88-597ff3e78f53	biolink:AnatomicalEntity	Fibroblast in Fornix	Fibroblast in Fornix	KIBR; Stanford University
+uuid:f8399f60-b4cd-5af8-8485-336b03d59278	biolink:AnatomicalEntity	Fibroblast in Fusiform Gyrus	Fibroblast in Fusiform Gyrus	KIBR; Stanford University
+uuid:d5397eb8-784e-5404-a8e3-6de0b799b244	biolink:AnatomicalEntity	Fibroblast in Hippocampus and Entorhinal Cortex	Fibroblast in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:382e6dd5-a5af-55d1-802a-b9fc98bea82c	biolink:AnatomicalEntity	Fibroblast in Inferior Frontal Gyrus	Fibroblast in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:83865be4-9370-5510-8427-4958841a14e7	biolink:AnatomicalEntity	Fibroblast in Inferior Parietal Lobule / Supramarginal Gyrus	Fibroblast in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:06469ba6-a7f7-549a-a1c1-47bab141601b	biolink:AnatomicalEntity	Fibroblast in Inferior Temporal Gyrus	Fibroblast in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:a9c76dc3-bc4a-5aa9-be64-2485cbb23dd2	biolink:AnatomicalEntity	Fibroblast in Insular Cortex	Fibroblast in Insular Cortex	KIBR; Stanford University
+uuid:5830bbf3-d1f7-5fd4-b9e5-171662ff7710	biolink:AnatomicalEntity	Fibroblast in Lateral Occipital Cortex	Fibroblast in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:47ac7c69-9219-5bc2-b4a4-829e9bf70d94	biolink:AnatomicalEntity	Fibroblast in Lateral Temporal Gyrus	Fibroblast in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:6e371d4f-b10a-565a-9213-f5cee7d4174d	biolink:AnatomicalEntity	Fibroblast in Leptomeninges	Fibroblast in Leptomeninges	KIBR; Stanford University
+uuid:54613e29-d618-5e36-8d6b-504352f55db9	biolink:AnatomicalEntity	Fibroblast in Lingual Gyrus	Fibroblast in Lingual Gyrus	KIBR; Stanford University
+uuid:93c83420-fd26-55f0-b838-85b5c32df253	biolink:AnatomicalEntity	Fibroblast in Midbrain	Fibroblast in Midbrain	KIBR; Stanford University
+uuid:fa10854a-66f3-57ea-8e4f-8d4c83883c5c	biolink:AnatomicalEntity	Fibroblast in Middle Cerebral Artery	Fibroblast in Middle Cerebral Artery	KIBR; Stanford University
+uuid:a4e27da9-823a-5553-b4b0-20366a20bf8f	biolink:AnatomicalEntity	Fibroblast in Middle Temporal Gyrus	Fibroblast in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:0a6caa7d-7eba-5584-aded-6f581ed91543	biolink:AnatomicalEntity	Fibroblast in Olfactory Bulb	Fibroblast in Olfactory Bulb	KIBR; Stanford University
+uuid:002ab1b3-7530-56b0-8ebe-8e6d28d88084	biolink:AnatomicalEntity	Fibroblast in Orbitofrontal Cortex	Fibroblast in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:84805b01-1e22-50ff-8ea7-5d1f15a506ff	biolink:AnatomicalEntity	Fibroblast in Parahippocampal Gyrus	Fibroblast in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:0c6837b3-d1ca-5c3e-9919-3c851a29a349	biolink:AnatomicalEntity	Fibroblast in Periventricular White Matter	Fibroblast in Periventricular White Matter	KIBR; Stanford University
+uuid:f8961ca7-9054-50ae-8261-b97343a148e1	biolink:AnatomicalEntity	Fibroblast in Pons	Fibroblast in Pons	KIBR; Stanford University
+uuid:0b59d295-7c40-5944-aaf9-7436703d6dbb	biolink:AnatomicalEntity	Fibroblast in Posterior Cingulate Cortex	Fibroblast in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:e9408c55-7477-55a6-99e3-e5b636999893	biolink:AnatomicalEntity	Fibroblast in Precuneus	Fibroblast in Precuneus	KIBR; Stanford University
+uuid:6bca28bb-411d-5c35-8838-262fc677bbb8	biolink:AnatomicalEntity	Fibroblast in Spinal Cord	Fibroblast in Spinal Cord	KIBR; Stanford University
+uuid:b54fac9a-9faa-522f-96a7-fb383d66457c	biolink:AnatomicalEntity	Fibroblast in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Fibroblast in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:edd9358b-cba3-54c9-b29a-82028e5bd809	biolink:AnatomicalEntity	Fibroblast in Superior Parietal Lobule	Fibroblast in Superior Parietal Lobule	KIBR; Stanford University
+uuid:c8d82ffe-b9db-542c-be6e-d6e4c9cbaf29	biolink:AnatomicalEntity	Fibroblast in Superior Temporal Gyrus	Fibroblast in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:945881c3-5ea4-5c2b-aeb5-9dcdfff0a693	biolink:AnatomicalEntity	Fibroblast in Supramarginal Gyrus	Fibroblast in Supramarginal Gyrus	KIBR; Stanford University
+uuid:7c843d99-438c-5592-b03a-9c7038d5882f	biolink:AnatomicalEntity	Fibroblast in Thalamus	Fibroblast in Thalamus	KIBR; Stanford University
+uuid:fd1193cd-ce0c-5d47-b39f-b1c451a6ae35	biolink:AnatomicalEntity	Fibroblast in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Fibroblast in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:3ee4a0d2-34fc-5955-aaab-3084ae645c38	biolink:AnatomicalEntity	Fibroblast in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Fibroblast in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:7906baff-2ea3-566c-82e9-8d603732860f	biolink:AnatomicalEntity	Fibroblast in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Fibroblast in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:b8db7e61-6362-5323-a3fd-26abdc04bad8	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Amygdala	Microglia Macrophage or T Cell in Amygdala	KIBR; Stanford University
+uuid:db5a5672-b948-57a5-8e3e-692a717cbf43	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Anterior Cerebral Artery	Microglia Macrophage or T Cell in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:cbefb11f-c272-5e52-9614-1ce317cc29cb	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Anterior Cingulate Cortex	Microglia Macrophage or T Cell in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:110d51bd-aa76-580b-bb1e-80eb01277ce6	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Basilar Artery / Circle of Willis	Microglia Macrophage or T Cell in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:4cf21580-3606-5e28-b405-2ed0cd6952ff	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Caudate and Putamen	Microglia Macrophage or T Cell in Caudate and Putamen	KIBR; Stanford University
+uuid:335df52b-7973-50ba-8b3a-af05d78f65be	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Cerebellum	Microglia Macrophage or T Cell in Cerebellum	KIBR; Stanford University
+uuid:721cc979-f213-5dd5-a308-2b0ed8b1faa8	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Cingulum Bundle	Microglia Macrophage or T Cell in Cingulum Bundle	KIBR; Stanford University
+uuid:d5b9f907-af28-5d22-8f88-663e70f06e64	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Corpus Callosum	Microglia Macrophage or T Cell in Corpus Callosum	KIBR; Stanford University
+uuid:ca2315ec-b43e-5457-9a7a-222661253422	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Cuneus	Microglia Macrophage or T Cell in Cuneus	KIBR; Stanford University
+uuid:4036e0a7-3d71-5def-b6df-5e20f56d0c39	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Dorsolateral Prefrontal Cortex	Microglia Macrophage or T Cell in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:520a3f2d-a127-5e4b-91b8-886bda547299	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Entorhinal Cortex	Microglia Macrophage or T Cell in Entorhinal Cortex	KIBR; Stanford University
+uuid:8cc6f08d-fa4d-53ca-9f76-0480e33835ba	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Fornix	Microglia Macrophage or T Cell in Fornix	KIBR; Stanford University
+uuid:87ba3d86-cfc9-59b7-8243-32918975c3a9	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Fusiform Gyrus	Microglia Macrophage or T Cell in Fusiform Gyrus	KIBR; Stanford University
+uuid:774de1a3-4a11-597c-88e0-a720cdd8697d	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Hippocampus and Entorhinal Cortex	Microglia Macrophage or T Cell in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:bd38f426-66b1-5138-8728-5cbb7aee69e0	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Inferior Frontal Gyrus	Microglia Macrophage or T Cell in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:a8079d33-9c7b-5dd6-b5f6-b92ea317e6a1	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Inferior Parietal Lobule / Supramarginal Gyrus	Microglia Macrophage or T Cell in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:b402a152-6a81-55dc-a101-2dcc16643b4b	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Inferior Temporal Gyrus	Microglia Macrophage or T Cell in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:df471491-23c8-58c0-9f1f-fea8ebcfbb30	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Insular Cortex	Microglia Macrophage or T Cell in Insular Cortex	KIBR; Stanford University
+uuid:d7f7e0f6-3436-5454-ac04-47579bf57efa	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Lateral Occipital Cortex	Microglia Macrophage or T Cell in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:b4f9c44e-7a92-5a43-9abc-5db2caf80863	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Lateral Temporal Gyrus	Microglia Macrophage or T Cell in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:5efd4a2d-1e69-592c-b6e4-23f105f1372a	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Leptomeninges	Microglia Macrophage or T Cell in Leptomeninges	KIBR; Stanford University
+uuid:3c908ccb-a8e0-5cae-8a39-8e844db0d054	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Lingual Gyrus	Microglia Macrophage or T Cell in Lingual Gyrus	KIBR; Stanford University
+uuid:c5c21cb4-3ec3-57d8-8646-56dd9e75a97b	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Midbrain	Microglia Macrophage or T Cell in Midbrain	KIBR; Stanford University
+uuid:924d6a49-dbba-58ec-b6dc-7f99fda51caf	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Middle Cerebral Artery	Microglia Macrophage or T Cell in Middle Cerebral Artery	KIBR; Stanford University
+uuid:9673ecd3-b299-5ab0-a0d2-cf5b76ff5e25	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Middle Temporal Gyrus	Microglia Macrophage or T Cell in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:bcf4fed9-6834-53c4-8098-9b9a45af1e65	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Olfactory Bulb	Microglia Macrophage or T Cell in Olfactory Bulb	KIBR; Stanford University
+uuid:f0586512-8175-5cb4-9cb4-40a2a1a9c497	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Orbitofrontal Cortex	Microglia Macrophage or T Cell in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:71759079-5e2d-570b-a5d9-5dd5636cddd1	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Parahippocampal Gyrus	Microglia Macrophage or T Cell in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:ae670af5-4de8-54d1-9107-3d824702cd5f	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Periventricular White Matter	Microglia Macrophage or T Cell in Periventricular White Matter	KIBR; Stanford University
+uuid:84eb2ad8-aa45-5b21-aeb6-bfc142c33a45	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Pons	Microglia Macrophage or T Cell in Pons	KIBR; Stanford University
+uuid:ce83f1ec-99cf-5273-8092-0ea8a26f1748	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Posterior Cingulate Cortex	Microglia Macrophage or T Cell in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:1cf17661-f1c0-53a3-909c-494576824963	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Precuneus	Microglia Macrophage or T Cell in Precuneus	KIBR; Stanford University
+uuid:391ce2ca-8519-50ba-a498-9fed9daeb6bc	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Spinal Cord	Microglia Macrophage or T Cell in Spinal Cord	KIBR; Stanford University
+uuid:36a22dce-04d0-5180-8189-e2ae8e9f1ff7	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Microglia Macrophage or T Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:7d0682f4-5fda-595c-b6b7-66ff829cbfca	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Superior Parietal Lobule	Microglia Macrophage or T Cell in Superior Parietal Lobule	KIBR; Stanford University
+uuid:f913c09f-ef12-5e3f-aee0-2eb8900b25c3	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Superior Temporal Gyrus	Microglia Macrophage or T Cell in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:c1cee9f7-f88a-510e-8215-daf434381006	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Supramarginal Gyrus	Microglia Macrophage or T Cell in Supramarginal Gyrus	KIBR; Stanford University
+uuid:e06de8b4-a567-59b5-9090-616edc692d59	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Thalamus	Microglia Macrophage or T Cell in Thalamus	KIBR; Stanford University
+uuid:3d79802f-19e4-5c0b-86dc-9709fac7d1e6	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Microglia Macrophage or T Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:7bd6a70f-65d0-5ac1-8fd8-2076ce15f5d4	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Microglia Macrophage or T Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:36c5746d-9630-5155-905d-f4e8820fdfa1	biolink:AnatomicalEntity	Microglia Macrophage or T Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Microglia Macrophage or T Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:941d70b5-481c-567c-b084-f2628859ca13	biolink:AnatomicalEntity	Mural Cell in Amygdala	Mural Cell in Amygdala	KIBR; Stanford University
+uuid:96eebed2-ff38-547d-9355-4dd150261446	biolink:AnatomicalEntity	Mural Cell in Anterior Cerebral Artery	Mural Cell in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:347685b3-91c0-5f27-9340-0daf0c799a47	biolink:AnatomicalEntity	Mural Cell in Anterior Cingulate Cortex	Mural Cell in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:a6bfd21d-44d0-5d4b-838f-f03cff0d4e0d	biolink:AnatomicalEntity	Mural Cell in Basilar Artery / Circle of Willis	Mural Cell in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:3dc49e4d-e620-5b5b-84a8-08272fe74d05	biolink:AnatomicalEntity	Mural Cell in Caudate and Putamen	Mural Cell in Caudate and Putamen	KIBR; Stanford University
+uuid:69ad50ee-64cd-5742-b4f8-7f1488721a64	biolink:AnatomicalEntity	Mural Cell in Cerebellum	Mural Cell in Cerebellum	KIBR; Stanford University
+uuid:ba2f7caa-745a-59ad-9046-cac4bb4de46d	biolink:AnatomicalEntity	Mural Cell in Cingulum Bundle	Mural Cell in Cingulum Bundle	KIBR; Stanford University
+uuid:0f171573-a094-5de6-b3d8-f64ee87c6db8	biolink:AnatomicalEntity	Mural Cell in Corpus Callosum	Mural Cell in Corpus Callosum	KIBR; Stanford University
+uuid:d731e893-922d-5a50-952a-a354dfe4c84a	biolink:AnatomicalEntity	Mural Cell in Cuneus	Mural Cell in Cuneus	KIBR; Stanford University
+uuid:73ba6e6a-5955-5e02-9f5c-35e6f9c31cc0	biolink:AnatomicalEntity	Mural Cell in Dorsolateral Prefrontal Cortex	Mural Cell in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:67b381de-893a-5aa2-a118-adf45f6c7143	biolink:AnatomicalEntity	Mural Cell in Entorhinal Cortex	Mural Cell in Entorhinal Cortex	KIBR; Stanford University
+uuid:00b9d8be-5c3e-5e33-9deb-9c37fbd3d826	biolink:AnatomicalEntity	Mural Cell in Fornix	Mural Cell in Fornix	KIBR; Stanford University
+uuid:06ca1392-e4a7-5a6c-9495-ec6c11108c6c	biolink:AnatomicalEntity	Mural Cell in Fusiform Gyrus	Mural Cell in Fusiform Gyrus	KIBR; Stanford University
+uuid:b84ee760-d00a-5574-b659-be118f37374a	biolink:AnatomicalEntity	Mural Cell in Hippocampus and Entorhinal Cortex	Mural Cell in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:db8681bb-521c-5dd7-8c7b-4719ccc2471b	biolink:AnatomicalEntity	Mural Cell in Inferior Frontal Gyrus	Mural Cell in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:6282f9cd-be82-579d-8226-a2a291f456b0	biolink:AnatomicalEntity	Mural Cell in Inferior Parietal Lobule / Supramarginal Gyrus	Mural Cell in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:a39eb831-340f-5614-bc4f-9f28978d6049	biolink:AnatomicalEntity	Mural Cell in Inferior Temporal Gyrus	Mural Cell in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:0d97a7b8-48e9-51a2-8fc3-4e925e553a0d	biolink:AnatomicalEntity	Mural Cell in Insular Cortex	Mural Cell in Insular Cortex	KIBR; Stanford University
+uuid:d5989254-d72a-5bcd-b2d4-d0b57cb3bab9	biolink:AnatomicalEntity	Mural Cell in Lateral Occipital Cortex	Mural Cell in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:af7816fc-1809-5a07-886c-f3ea062c36f4	biolink:AnatomicalEntity	Mural Cell in Lateral Temporal Gyrus	Mural Cell in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:ed5c7fce-0cd5-57bb-ab19-55d9a55b0cb4	biolink:AnatomicalEntity	Mural Cell in Leptomeninges	Mural Cell in Leptomeninges	KIBR; Stanford University
+uuid:bf5ee6dd-6c03-558f-a6f0-a9ae217a3cb6	biolink:AnatomicalEntity	Mural Cell in Lingual Gyrus	Mural Cell in Lingual Gyrus	KIBR; Stanford University
+uuid:4a12b1d8-7dc0-55ee-9d30-cf9a4e878cd1	biolink:AnatomicalEntity	Mural Cell in Midbrain	Mural Cell in Midbrain	KIBR; Stanford University
+uuid:3fa0793d-e627-5d9d-a3b5-ef612b02379d	biolink:AnatomicalEntity	Mural Cell in Middle Cerebral Artery	Mural Cell in Middle Cerebral Artery	KIBR; Stanford University
+uuid:b02eda62-2db4-5196-a4eb-c82700b9bbcc	biolink:AnatomicalEntity	Mural Cell in Middle Temporal Gyrus	Mural Cell in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:1022094d-4c48-5bca-8800-4affb837cddc	biolink:AnatomicalEntity	Mural Cell in Olfactory Bulb	Mural Cell in Olfactory Bulb	KIBR; Stanford University
+uuid:f09f1c76-c32b-553a-98fc-13d52f98f7d4	biolink:AnatomicalEntity	Mural Cell in Orbitofrontal Cortex	Mural Cell in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:ad204959-0228-56cb-b04e-ecd4b4c217ed	biolink:AnatomicalEntity	Mural Cell in Parahippocampal Gyrus	Mural Cell in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:e6f9a1c8-2e70-575a-a0a8-d856ad721839	biolink:AnatomicalEntity	Mural Cell in Periventricular White Matter	Mural Cell in Periventricular White Matter	KIBR; Stanford University
+uuid:99d14a22-1fdc-5278-95fa-fb1435c7daf9	biolink:AnatomicalEntity	Mural Cell in Pons	Mural Cell in Pons	KIBR; Stanford University
+uuid:6e1857ba-884f-5995-8289-e98129fb8891	biolink:AnatomicalEntity	Mural Cell in Posterior Cingulate Cortex	Mural Cell in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:d95610cc-11b4-56ec-a65c-de21a42e633e	biolink:AnatomicalEntity	Mural Cell in Precuneus	Mural Cell in Precuneus	KIBR; Stanford University
+uuid:b37a9c52-bb70-566f-afa3-d5a692264d15	biolink:AnatomicalEntity	Mural Cell in Spinal Cord	Mural Cell in Spinal Cord	KIBR; Stanford University
+uuid:2bed653e-cbf1-5220-926a-6ccac64c464d	biolink:AnatomicalEntity	Mural Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Mural Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:46c5f150-84ec-56bc-9ec0-ee8e02f319ba	biolink:AnatomicalEntity	Mural Cell in Superior Parietal Lobule	Mural Cell in Superior Parietal Lobule	KIBR; Stanford University
+uuid:234fe5ef-476b-5922-88b8-d64c1bd8896b	biolink:AnatomicalEntity	Mural Cell in Superior Temporal Gyrus	Mural Cell in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:ab8b6175-441b-5c34-86db-6a5fe67cbf92	biolink:AnatomicalEntity	Mural Cell in Supramarginal Gyrus	Mural Cell in Supramarginal Gyrus	KIBR; Stanford University
+uuid:f7cd519a-da8f-53de-b7a6-0df5776f0928	biolink:AnatomicalEntity	Mural Cell in Thalamus	Mural Cell in Thalamus	KIBR; Stanford University
+uuid:c2b74b18-baef-5e8a-938e-79f486ffdeae	biolink:AnatomicalEntity	Mural Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Mural Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:31acf2b9-81b7-5fa0-83c5-1d4483c9e75a	biolink:AnatomicalEntity	Mural Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Mural Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:f050cacf-fa43-599e-abc2-debce7dff0ac	biolink:AnatomicalEntity	Mural Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Mural Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:210df0b7-3855-5b3d-b110-0d2f37b693fe	biolink:AnatomicalEntity	Neuron in Amygdala	Neuron in Amygdala	KIBR; Stanford University
+uuid:1be2b0ea-abc8-5ccf-8921-6260c40c3e73	biolink:AnatomicalEntity	Neuron in Anterior Cerebral Artery	Neuron in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:68fcb4d1-d95d-5dd0-b181-fdbb2090f8cc	biolink:AnatomicalEntity	Neuron in Anterior Cingulate Cortex	Neuron in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:dd17db7d-5571-50c9-a19a-33a299614b0e	biolink:AnatomicalEntity	Neuron in Basilar Artery / Circle of Willis	Neuron in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:1493554b-ac9c-5fe9-b76c-f5dd2a93a5ac	biolink:AnatomicalEntity	Neuron in Caudate and Putamen	Neuron in Caudate and Putamen	KIBR; Stanford University
+uuid:6a90e1ba-d73d-53cd-9eee-b82e35e73f98	biolink:AnatomicalEntity	Neuron in Cerebellum	Neuron in Cerebellum	KIBR; Stanford University
+uuid:7169eaf8-8bd3-53ba-9468-99f198b79b61	biolink:AnatomicalEntity	Neuron in Cingulum Bundle	Neuron in Cingulum Bundle	KIBR; Stanford University
+uuid:1b4aeaa8-c539-5e02-aa70-09e5236af750	biolink:AnatomicalEntity	Neuron in Corpus Callosum	Neuron in Corpus Callosum	KIBR; Stanford University
+uuid:5f493425-6df7-5bec-866e-3bdcc9dba196	biolink:AnatomicalEntity	Neuron in Cuneus	Neuron in Cuneus	KIBR; Stanford University
+uuid:6cba66f2-1ed4-5dcc-83ae-b696bf5ab9cd	biolink:AnatomicalEntity	Neuron in Dorsolateral Prefrontal Cortex	Neuron in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:36eb7c16-7ba0-58f1-a950-d6b034d5a78d	biolink:AnatomicalEntity	Neuron in Entorhinal Cortex	Neuron in Entorhinal Cortex	KIBR; Stanford University
+uuid:9e1d2d9f-bc17-5adc-a2ec-2600528c3f2e	biolink:AnatomicalEntity	Neuron in Fornix	Neuron in Fornix	KIBR; Stanford University
+uuid:adb7a5fc-505f-521c-9a41-8006e671dbe5	biolink:AnatomicalEntity	Neuron in Fusiform Gyrus	Neuron in Fusiform Gyrus	KIBR; Stanford University
+uuid:e19088b1-619f-5601-ba66-f50c6e7121dd	biolink:AnatomicalEntity	Neuron in Hippocampus and Entorhinal Cortex	Neuron in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:d0c085a5-6da4-54d3-b39c-613f8a1ce10b	biolink:AnatomicalEntity	Neuron in Inferior Frontal Gyrus	Neuron in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:91df99d1-2cb3-521b-9822-8dfcb0f940e2	biolink:AnatomicalEntity	Neuron in Inferior Parietal Lobule / Supramarginal Gyrus	Neuron in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:874066c9-e894-5738-9516-c5520313cc42	biolink:AnatomicalEntity	Neuron in Inferior Temporal Gyrus	Neuron in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:3e21f2bc-bbc0-5903-b37b-dc828b755bba	biolink:AnatomicalEntity	Neuron in Insular Cortex	Neuron in Insular Cortex	KIBR; Stanford University
+uuid:e427c2ac-63b2-5306-9695-cd2a8629ff41	biolink:AnatomicalEntity	Neuron in Lateral Occipital Cortex	Neuron in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:9eece975-4222-50a1-82ae-10e762a365c0	biolink:AnatomicalEntity	Neuron in Lateral Temporal Gyrus	Neuron in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:6b4b6a17-8f8f-54fc-964f-5e5584ec80f9	biolink:AnatomicalEntity	Neuron in Leptomeninges	Neuron in Leptomeninges	KIBR; Stanford University
+uuid:f4fedfa9-b882-5a4e-8642-48e83eb47299	biolink:AnatomicalEntity	Neuron in Lingual Gyrus	Neuron in Lingual Gyrus	KIBR; Stanford University
+uuid:6062981c-fc65-5d9f-ae82-862104c3889e	biolink:AnatomicalEntity	Neuron in Midbrain	Neuron in Midbrain	KIBR; Stanford University
+uuid:1102b635-a7c1-5f4f-a0ca-b2dc9c30e459	biolink:AnatomicalEntity	Neuron in Middle Cerebral Artery	Neuron in Middle Cerebral Artery	KIBR; Stanford University
+uuid:b1a7457e-369e-5ccc-a4b7-945c6e150bc8	biolink:AnatomicalEntity	Neuron in Middle Temporal Gyrus	Neuron in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:c3ea968f-b566-5ae2-b83c-5429d3c5ea51	biolink:AnatomicalEntity	Neuron in Olfactory Bulb	Neuron in Olfactory Bulb	KIBR; Stanford University
+uuid:35c52ba3-a814-5d97-ba9b-9508301c4a1f	biolink:AnatomicalEntity	Neuron in Orbitofrontal Cortex	Neuron in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:3cfd012d-2ee2-5ace-bbf5-a615a0365e2e	biolink:AnatomicalEntity	Neuron in Parahippocampal Gyrus	Neuron in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:12fe7d2c-dff0-5659-b0cf-b8fab2d52caa	biolink:AnatomicalEntity	Neuron in Periventricular White Matter	Neuron in Periventricular White Matter	KIBR; Stanford University
+uuid:83de425c-18e5-5a74-9402-65a087e743d1	biolink:AnatomicalEntity	Neuron in Pons	Neuron in Pons	KIBR; Stanford University
+uuid:e023e73e-9cf4-57f7-aee1-3994428de68c	biolink:AnatomicalEntity	Neuron in Posterior Cingulate Cortex	Neuron in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:830b851f-b70c-5d9c-8682-92b564e96c7f	biolink:AnatomicalEntity	Neuron in Precuneus	Neuron in Precuneus	KIBR; Stanford University
+uuid:2dfacc10-05a2-51e9-935b-354c38e1cd05	biolink:AnatomicalEntity	Neuron in Spinal Cord	Neuron in Spinal Cord	KIBR; Stanford University
+uuid:311c3fb1-7e12-5897-b912-e96bf2f1a40f	biolink:AnatomicalEntity	Neuron in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Neuron in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:f002e267-aefd-55b1-a112-04af182bd8fc	biolink:AnatomicalEntity	Neuron in Superior Parietal Lobule	Neuron in Superior Parietal Lobule	KIBR; Stanford University
+uuid:1104ac22-b5a1-5435-85e0-e9fa23a3122a	biolink:AnatomicalEntity	Neuron in Superior Temporal Gyrus	Neuron in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:91a64b6d-00b2-558b-bfab-e4d0021a2ed6	biolink:AnatomicalEntity	Neuron in Supramarginal Gyrus	Neuron in Supramarginal Gyrus	KIBR; Stanford University
+uuid:adab6112-1981-51bf-890a-f76d8f25881d	biolink:AnatomicalEntity	Neuron in Thalamus	Neuron in Thalamus	KIBR; Stanford University
+uuid:6f49b91f-0f49-55a2-8b4f-4e132270eb8c	biolink:AnatomicalEntity	Neuron in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Neuron in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:e7781cbf-7165-5a87-a906-2675ae878075	biolink:AnatomicalEntity	Neuron in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Neuron in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:80ef56cd-0779-511c-9303-7da9dabaa07e	biolink:AnatomicalEntity	Neuron in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Neuron in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:baf3dd0d-2f97-5e75-8cfe-baac6445eb1f	biolink:AnatomicalEntity	Oligodendrocyte in Amygdala	Oligodendrocyte in Amygdala	KIBR; Stanford University
+uuid:a6be93c5-03d5-5542-a58b-629bacc57a67	biolink:AnatomicalEntity	Oligodendrocyte in Anterior Cerebral Artery	Oligodendrocyte in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:31c08101-5439-5583-834e-c7093ccfd8f6	biolink:AnatomicalEntity	Oligodendrocyte in Anterior Cingulate Cortex	Oligodendrocyte in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:1410a756-bc13-5688-8230-57488c3607fe	biolink:AnatomicalEntity	Oligodendrocyte in Basilar Artery / Circle of Willis	Oligodendrocyte in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:52bf3d3a-18ad-55df-8b4a-6a71a90eadcf	biolink:AnatomicalEntity	Oligodendrocyte in Caudate and Putamen	Oligodendrocyte in Caudate and Putamen	KIBR; Stanford University
+uuid:04dd1d4a-1e83-5e7f-85d7-63e0d7b89a0d	biolink:AnatomicalEntity	Oligodendrocyte in Cerebellum	Oligodendrocyte in Cerebellum	KIBR; Stanford University
+uuid:37ad2926-5d98-5c67-95e4-6aab38f75cd5	biolink:AnatomicalEntity	Oligodendrocyte in Cingulum Bundle	Oligodendrocyte in Cingulum Bundle	KIBR; Stanford University
+uuid:5a0f5036-9d05-5602-abe6-41a7dff8fddf	biolink:AnatomicalEntity	Oligodendrocyte in Corpus Callosum	Oligodendrocyte in Corpus Callosum	KIBR; Stanford University
+uuid:338a51c6-efc4-5202-897f-1426b99f776c	biolink:AnatomicalEntity	Oligodendrocyte in Cuneus	Oligodendrocyte in Cuneus	KIBR; Stanford University
+uuid:595fe47d-1936-5ea1-b89f-11c7efc95eb1	biolink:AnatomicalEntity	Oligodendrocyte in Dorsolateral Prefrontal Cortex	Oligodendrocyte in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:e2cb1a52-4553-5e96-b6cf-9348d87d66bb	biolink:AnatomicalEntity	Oligodendrocyte in Entorhinal Cortex	Oligodendrocyte in Entorhinal Cortex	KIBR; Stanford University
+uuid:10249a5d-dd04-5695-938f-a2ea1c514e58	biolink:AnatomicalEntity	Oligodendrocyte in Fornix	Oligodendrocyte in Fornix	KIBR; Stanford University
+uuid:e4e391bd-e7e4-566f-a0cf-a8aa9c819e18	biolink:AnatomicalEntity	Oligodendrocyte in Fusiform Gyrus	Oligodendrocyte in Fusiform Gyrus	KIBR; Stanford University
+uuid:e9ffe054-8b6b-5bf9-90e2-4cc6692aaf3c	biolink:AnatomicalEntity	Oligodendrocyte in Hippocampus and Entorhinal Cortex	Oligodendrocyte in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:0c56f34b-5bfe-5993-9d61-7f765d15b45b	biolink:AnatomicalEntity	Oligodendrocyte in Inferior Frontal Gyrus	Oligodendrocyte in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:abf72cc1-5ad9-56a9-ab3a-2b59148d3e87	biolink:AnatomicalEntity	Oligodendrocyte in Inferior Parietal Lobule / Supramarginal Gyrus	Oligodendrocyte in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:f25f5f0c-3479-55a4-8f60-2768635d5b67	biolink:AnatomicalEntity	Oligodendrocyte in Inferior Temporal Gyrus	Oligodendrocyte in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:40fa38c6-8fa5-505e-aa1c-b47bed87004a	biolink:AnatomicalEntity	Oligodendrocyte in Insular Cortex	Oligodendrocyte in Insular Cortex	KIBR; Stanford University
+uuid:d61a51ff-580c-5b9d-b902-dcb9439a98b7	biolink:AnatomicalEntity	Oligodendrocyte in Lateral Occipital Cortex	Oligodendrocyte in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:5406c917-cfbb-5fa9-9c46-e8b185d058ac	biolink:AnatomicalEntity	Oligodendrocyte in Lateral Temporal Gyrus	Oligodendrocyte in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:fc82071a-348b-555b-a1a7-d3db02df5048	biolink:AnatomicalEntity	Oligodendrocyte in Leptomeninges	Oligodendrocyte in Leptomeninges	KIBR; Stanford University
+uuid:4ca756b8-afa7-5f72-bfad-ea94d00ecd15	biolink:AnatomicalEntity	Oligodendrocyte in Lingual Gyrus	Oligodendrocyte in Lingual Gyrus	KIBR; Stanford University
+uuid:1b560fad-92c0-5c79-95b4-619b97174cf6	biolink:AnatomicalEntity	Oligodendrocyte in Midbrain	Oligodendrocyte in Midbrain	KIBR; Stanford University
+uuid:bf6392c8-ea1a-5bae-82b0-a216da18c2bc	biolink:AnatomicalEntity	Oligodendrocyte in Middle Cerebral Artery	Oligodendrocyte in Middle Cerebral Artery	KIBR; Stanford University
+uuid:6b56fed4-6939-5bad-9e58-c305b9cdb1f7	biolink:AnatomicalEntity	Oligodendrocyte in Middle Temporal Gyrus	Oligodendrocyte in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:e2881616-28c2-5c4c-8016-d3bc1f2ccd65	biolink:AnatomicalEntity	Oligodendrocyte in Olfactory Bulb	Oligodendrocyte in Olfactory Bulb	KIBR; Stanford University
+uuid:b8243ea0-01ff-571c-ab07-8ac4d6da66e4	biolink:AnatomicalEntity	Oligodendrocyte in Orbitofrontal Cortex	Oligodendrocyte in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:4145a32a-7e2d-5390-88ca-9a0d9d646ad8	biolink:AnatomicalEntity	Oligodendrocyte in Parahippocampal Gyrus	Oligodendrocyte in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:910d1b4b-da4a-53ce-b273-09f7bb4a4c87	biolink:AnatomicalEntity	Oligodendrocyte in Periventricular White Matter	Oligodendrocyte in Periventricular White Matter	KIBR; Stanford University
+uuid:150f656e-33ff-54c6-9f0f-b7c0c1473910	biolink:AnatomicalEntity	Oligodendrocyte in Pons	Oligodendrocyte in Pons	KIBR; Stanford University
+uuid:e4c54434-3da5-561d-9fbd-5ab247f3a0c7	biolink:AnatomicalEntity	Oligodendrocyte in Posterior Cingulate Cortex	Oligodendrocyte in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:2b1c949f-1f05-52cf-a187-84675d20c7ab	biolink:AnatomicalEntity	Oligodendrocyte in Precuneus	Oligodendrocyte in Precuneus	KIBR; Stanford University
+uuid:c98b4e17-4084-57e4-9792-2af2f04e978f	biolink:AnatomicalEntity	Oligodendrocyte in Spinal Cord	Oligodendrocyte in Spinal Cord	KIBR; Stanford University
+uuid:4b897d2b-c159-5e92-944c-61c66ba9f2ad	biolink:AnatomicalEntity	Oligodendrocyte in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Oligodendrocyte in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:ed5da528-5240-5864-9ec1-30b3baae4e53	biolink:AnatomicalEntity	Oligodendrocyte in Superior Parietal Lobule	Oligodendrocyte in Superior Parietal Lobule	KIBR; Stanford University
+uuid:11c45588-ab29-56cf-82e0-c4b806e0b9e5	biolink:AnatomicalEntity	Oligodendrocyte in Superior Temporal Gyrus	Oligodendrocyte in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:d8244d93-865f-5628-a866-b81443051068	biolink:AnatomicalEntity	Oligodendrocyte in Supramarginal Gyrus	Oligodendrocyte in Supramarginal Gyrus	KIBR; Stanford University
+uuid:1e8388b4-28d8-5164-b057-ee254c06cb96	biolink:AnatomicalEntity	Oligodendrocyte in Thalamus	Oligodendrocyte in Thalamus	KIBR; Stanford University
+uuid:a61783ed-be8f-551b-9d7b-d35c2013a738	biolink:AnatomicalEntity	Oligodendrocyte in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Oligodendrocyte in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:13f0502b-cd40-57d6-9e3a-8a22a7e5134d	biolink:AnatomicalEntity	Oligodendrocyte in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Oligodendrocyte in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:309bcc4b-1756-5313-a537-229fa069b6c9	biolink:AnatomicalEntity	Oligodendrocyte in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Oligodendrocyte in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
+uuid:a1caafae-c04a-5a1b-afa4-c6bfddad1074	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Amygdala	Oligodendrocyte Precursor Cell in Amygdala	KIBR; Stanford University
+uuid:2da9f6ee-24b0-5962-877d-2e9680f58ccb	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Anterior Cerebral Artery	Oligodendrocyte Precursor Cell in Anterior Cerebral Artery	KIBR; Stanford University
+uuid:41560ea7-0ce3-56d8-b9a2-4d573ba54628	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Anterior Cingulate Cortex	Oligodendrocyte Precursor Cell in Anterior Cingulate Cortex	KIBR; Stanford University
+uuid:678da1e1-b9a3-5d96-ba7d-ddc7e0454575	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Basilar Artery / Circle of Willis	Oligodendrocyte Precursor Cell in Basilar Artery / Circle of Willis	KIBR; Stanford University
+uuid:56372ba5-645e-5db0-af79-9ff13aa65706	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Caudate and Putamen	Oligodendrocyte Precursor Cell in Caudate and Putamen	KIBR; Stanford University
+uuid:0a0deb8c-7286-5c20-b060-ba5cbddbff07	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Cerebellum	Oligodendrocyte Precursor Cell in Cerebellum	KIBR; Stanford University
+uuid:f0f5a833-800c-5d02-9e32-8a565777a2ca	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Cingulum Bundle	Oligodendrocyte Precursor Cell in Cingulum Bundle	KIBR; Stanford University
+uuid:aac45d6a-7b64-5b5a-a1d0-e0c8a52fd7b4	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Corpus Callosum	Oligodendrocyte Precursor Cell in Corpus Callosum	KIBR; Stanford University
+uuid:8325f45c-eea5-5c5e-a681-932d4d0582b8	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Cuneus	Oligodendrocyte Precursor Cell in Cuneus	KIBR; Stanford University
+uuid:cd7ebf90-5643-5833-ba6b-a75508f5dcf4	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Dorsolateral Prefrontal Cortex	Oligodendrocyte Precursor Cell in Dorsolateral Prefrontal Cortex	KIBR; Stanford University
+uuid:dd3afa4e-2e33-5d18-9727-4f3f8ed05634	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Entorhinal Cortex	Oligodendrocyte Precursor Cell in Entorhinal Cortex	KIBR; Stanford University
+uuid:4b62620e-19ad-51c8-8566-0892c6b76f79	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Fornix	Oligodendrocyte Precursor Cell in Fornix	KIBR; Stanford University
+uuid:b9205441-7ff9-5418-8637-f97572176419	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Fusiform Gyrus	Oligodendrocyte Precursor Cell in Fusiform Gyrus	KIBR; Stanford University
+uuid:5e5f58b5-2c37-5074-a958-0739721ae7ee	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Hippocampus and Entorhinal Cortex	Oligodendrocyte Precursor Cell in Hippocampus and Entorhinal Cortex	KIBR; Stanford University
+uuid:c780ed84-1038-5564-8f61-f44ec173f6b6	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Inferior Frontal Gyrus	Oligodendrocyte Precursor Cell in Inferior Frontal Gyrus	KIBR; Stanford University
+uuid:8ed94ea3-9666-54bd-b06e-4f43415d2061	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Inferior Parietal Lobule / Supramarginal Gyrus	Oligodendrocyte Precursor Cell in Inferior Parietal Lobule / Supramarginal Gyrus	KIBR; Stanford University
+uuid:3780717d-a2cb-5118-af81-27877fed0ebc	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Inferior Temporal Gyrus	Oligodendrocyte Precursor Cell in Inferior Temporal Gyrus	KIBR; Stanford University
+uuid:88877771-7fc0-5bdf-8698-f4a7030434ff	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Insular Cortex	Oligodendrocyte Precursor Cell in Insular Cortex	KIBR; Stanford University
+uuid:7093e5dc-9b2c-52b1-bfac-29e0f2bff5af	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Lateral Occipital Cortex	Oligodendrocyte Precursor Cell in Lateral Occipital Cortex	KIBR; Stanford University
+uuid:732c35e3-9209-56ed-b67f-706f1380e7f2	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Lateral Temporal Gyrus	Oligodendrocyte Precursor Cell in Lateral Temporal Gyrus	KIBR; Stanford University
+uuid:652bb59f-615c-58af-b023-f535fed5a875	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Leptomeninges	Oligodendrocyte Precursor Cell in Leptomeninges	KIBR; Stanford University
+uuid:edd9b8fb-57a9-5ffd-9287-b7565dbcee4d	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Lingual Gyrus	Oligodendrocyte Precursor Cell in Lingual Gyrus	KIBR; Stanford University
+uuid:d7eb0cf6-b19f-569f-b9e9-f43110e4df07	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Midbrain	Oligodendrocyte Precursor Cell in Midbrain	KIBR; Stanford University
+uuid:d0fae671-83c4-584c-a7f1-ec225ab7dea8	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Middle Cerebral Artery	Oligodendrocyte Precursor Cell in Middle Cerebral Artery	KIBR; Stanford University
+uuid:421669cf-a547-5899-b3b1-4e055d875077	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Middle Temporal Gyrus	Oligodendrocyte Precursor Cell in Middle Temporal Gyrus	KIBR; Stanford University
+uuid:a9a91e79-08d3-5eb2-b773-3d77525b9f72	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Olfactory Bulb	Oligodendrocyte Precursor Cell in Olfactory Bulb	KIBR; Stanford University
+uuid:3ff56e73-bac1-5c7f-9cfe-b91f4ed0c3a4	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Orbitofrontal Cortex	Oligodendrocyte Precursor Cell in Orbitofrontal Cortex	KIBR; Stanford University
+uuid:dcd6919e-6082-59b4-b3c1-14d35e8cb66b	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Parahippocampal Gyrus	Oligodendrocyte Precursor Cell in Parahippocampal Gyrus	KIBR; Stanford University
+uuid:5aaae22b-d3db-5a4a-b000-70dce0fb9d69	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Periventricular White Matter	Oligodendrocyte Precursor Cell in Periventricular White Matter	KIBR; Stanford University
+uuid:1b161724-4cc2-54dd-8b64-64095412c3e5	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Pons	Oligodendrocyte Precursor Cell in Pons	KIBR; Stanford University
+uuid:ccb2d4e1-7edc-5889-8766-4b3c08e1bd0e	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Posterior Cingulate Cortex	Oligodendrocyte Precursor Cell in Posterior Cingulate Cortex	KIBR; Stanford University
+uuid:a3506364-6cbb-56c8-9b72-fcf2d1ca0310	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Precuneus	Oligodendrocyte Precursor Cell in Precuneus	KIBR; Stanford University
+uuid:65a7fa33-b23a-59dd-a830-12eaaf73a555	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Spinal Cord	Oligodendrocyte Precursor Cell in Spinal Cord	KIBR; Stanford University
+uuid:9dad82de-4f2f-5f65-8cd9-8bf08f79327b	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	Oligodendrocyte Precursor Cell in Superior Frontal Gyrus / Rostromedial Prefrontal Cortex	KIBR; Stanford University
+uuid:aa22787d-78f3-5e4c-9a6a-5d8579f03585	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Superior Parietal Lobule	Oligodendrocyte Precursor Cell in Superior Parietal Lobule	KIBR; Stanford University
+uuid:9fe427a7-6b51-59a8-8f3a-b95b2723b7d0	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Superior Temporal Gyrus	Oligodendrocyte Precursor Cell in Superior Temporal Gyrus	KIBR; Stanford University
+uuid:4072acde-cb3d-5e1d-90f8-0f7adb2615a4	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Supramarginal Gyrus	Oligodendrocyte Precursor Cell in Supramarginal Gyrus	KIBR; Stanford University
+uuid:f0434103-9826-5bee-a434-31efe4774d7d	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Thalamus	Oligodendrocyte Precursor Cell in Thalamus	KIBR; Stanford University
+uuid:e5448495-8a82-5c3a-8f36-44f46b21b16c	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	Oligodendrocyte Precursor Cell in Watershed Area: Anterior Cerebral Artery - Middle Cerebral Artery border zone	KIBR; Stanford University
+uuid:873614c6-6b5f-58eb-b8e9-00e6f811d2d1	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	Oligodendrocyte Precursor Cell in Watershed Area: Middle Cerebral Artery - Posterior Cerebral Artery border zone	KIBR; Stanford University
+uuid:89c7f8e1-1ecc-5f36-b350-c15933972549	biolink:AnatomicalEntity	Oligodendrocyte Precursor Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	Oligodendrocyte Precursor Cell in White Matter Watershed Area supplied by the Anterior Cerebral Artery	KIBR; Stanford University
