@@ -1,0 +1,34 @@
+name: 'c2s_c_c'
+
+delimiter: ','
+
+files:
+  - './data/raw/c2s_c.csv'
+
+metadata: './kg_vasc/transform_utils/c2s_c/metadata.yaml'
+
+header: 'infer'
+
+columns:
+    - 'cell_type'
+    - 'gene'
+    - 'rank'
+
+node_properties:
+    - 'id'
+    - 'name'
+    - 'category'
+    - 'description'
+    - 'provided_by'
+
+edge_properties:
+    - 'id'
+    - 'subject'
+    - 'predicate'
+    - 'object'
+    - 'category'
+    - 'has_attribute'
+    - 'knowledge_level'
+    - 'agent_type'
+
+transform_mode: 'flat'

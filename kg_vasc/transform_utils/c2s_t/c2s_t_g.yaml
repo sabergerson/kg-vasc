@@ -1,0 +1,22 @@
+name: 'c2s_t_g'
+
+delimiter: ','
+
+files:
+  - './data/raw/c2s_t.csv'
+
+metadata: './kg_vasc/transform_utils/c2s_t/metadata.yaml'
+
+header: 'infer'
+
+columns:
+    - 'tissue'
+    - 'gene'
+    - 'rank'
+
+node_properties:
+    - 'id'
+    - 'name'
+    - 'category'
+
+transform_mode: 'flat'
